@@ -26,12 +26,9 @@ def crawl_naver_news(query: str) -> list[dict[str, str]]:
     response.raise_for_status()
 
     soup = BeautifulSoup(response.text, "html.parser")
-    news_list = soup.select_one("div.fds-news-item-list-desk")
-    if not news_list:
-        return []
 
     articles = []
-    for title_link in news_list.select('a[data-heatmap-target=".tit"]'):
+    for title_link in soup.select('a[data-heatmap-target=".tit"]'):
         title_span = title_link.select_one("span.sds-comps-text")
         title = (
             title_span.get_text(strip=True)
@@ -85,7 +82,7 @@ if __name__ == "__main__":
     if not seen:
         seen = {a["link"] for a in articles}
         save_seen_links(seen)
-        print("첫 실행 완료: 기준 기사 목록을 저장했습니다.")
+        print(f"첫 실행 완료: 기준 기사 {len(seen)}건을 저장했습니다.")
     else:
         new_articles = [a for a in articles if a["link"] not in seen]
         for a in new_articles:

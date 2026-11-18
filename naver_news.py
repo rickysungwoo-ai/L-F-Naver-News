@@ -1,6 +1,18 @@
 import os
+import time
 import requests
 from bs4 import BeautifulSoup
+
+# 🔔 알림 받고 싶은 회사/키워드 목록 (원하는 대로 추가/삭제 가능!)
+KEYWORDS = [
+    "엘앤에프",
+    "포스코퓨처엠",
+    "에코프로비엠",
+    "LG에너지솔루션",
+    "삼성SDI",
+    "SK온",
+    "에코프로",
+]
 
 SEEN_FILE = "seen_links.txt"
 WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"]
@@ -76,20 +88,20 @@ def send_discord(message: str) -> None:
 
 if __name__ == "__main__":
     seen = load_seen_links()
-    articles = crawl_naver_news("엘앤에프")
+    updated = False
 
-    # 맨 처음 실행할 때는 알림 폭탄을 막기 위해 목록만 저장
-    if not seen:
-        seen = {a["link"] for a in articles}
+    for keyword in KEYWORDS:
+        articles = crawl_naver_news(keyword)
+        for a in articles:
+            if a["link"] not in seen:
+                msg = f"📰 **[{keyword}] {a['title']}**\n언론사: {a['press']}\n{a['link']}"
+                send_discord(msg)
+                seen.add(a["link"])
+                updated = True
+                print("알림 전송:", keyword, a["title"])
+                time.sleep(1)  # 디스코드 알림이 너무 빨라 막히지 않도록 1초 쉬기
+
+        time.sleep(0.5)  # 네이버에 너무 빨리 요청하지 않도록 잠깐 쉬기
+
+    if updated:
         save_seen_links(seen)
-        print(f"첫 실행 완료: 기준 기사 {len(seen)}건을 저장했습니다.")
-    else:
-        new_articles = [a for a in articles if a["link"] not in seen]
-        for a in new_articles:
-            msg = f"📰 **{a['title']}**\n언론사: {a['press']}\n{a['link']}"
-            send_discord(msg)
-            seen.add(a["link"])
-            print("알림 전송:", a["title"])
-
-        if new_articles:
-            save_seen_links(seen)

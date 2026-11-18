@@ -3,6 +3,7 @@ http://www.beyondpost.co.kr/view.php?ud=2026111818575011824c878f8fa1_30
 http://www.biztribune.co.kr/news/articleView.html?idxno=362761
 http://www.econonews.co.kr/news/articleView.html?idxno=447376
 http://www.econonews.co.kr/news/articleView.html?idxno=447377
+http://www.enewstoday.co.kr/news/articleView.html?idxno=2494390
 http://www.fieldnews.kr/news/articleView.html?idxno=33201
 http://www.gjdream.com/news/articleView.html?idxno=674463
 http://www.hansbiz.co.kr/news/articleView.html?idxno=884725
@@ -20,6 +21,7 @@ https://biz.heraldcorp.com/article/10941327?ref=naver
 https://biz.sbs.co.kr/article_hub/20000347370?division=NAVER
 https://daily.hankooki.com/news/articleView.html?idxno=1426642
 https://it.donga.com/109957/
+https://kr.aving.net/news/articleView.html?idxno=1817187
 https://news.cpbc.co.kr/article/1177130?division=NAVER
 https://news.sbs.co.kr/news/endPage.do?news_id=N1008852694&plink=ORI&cooper=NAVER
 https://news.tf.co.kr/read/life/2390665.htm
@@ -27,6 +29,8 @@ https://view.asiae.co.kr/article/2026111818220668969
 https://www.asiatoday.co.kr/kn/view.php?key=20261118010006903
 https://www.cbci.co.kr/news/articleView.html?idxno=628337
 https://www.cbci.co.kr/news/articleView.html?idxno=628426
+https://www.chosun.com/economy/industry-company/2026/11/19/BDYQ4IA2QFDH7DZPPSZSSOVQMY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
+https://www.chosun.com/economy/industry-company/2026/11/19/KFKLX4B7ZJHAVPXMHKOTC5B3OM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.dkilbo.com/news/articleView.html?idxno=561348
 https://www.dt.co.kr/article/12096025?ref=naver
 https://www.dt.co.kr/article/12096026?ref=naver
@@ -41,6 +45,7 @@ https://www.joongang.co.kr/article/25479966
 https://www.kbmaeil.com/article/20261117500367
 https://www.kbmaeil.com/article/20261118500474
 https://www.khan.co.kr/article/202611182014065
+https://www.kmib.co.kr/article/20261118502354
 https://www.koreareport.co.kr/news/articleView.html?idxno=54876
 https://www.ksmnews.co.kr/news/view.php?idx=630224
 https://www.kukinews.com/article/view/kuk202611170215
@@ -58,5 +63,6 @@ https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611160826575680107
 https://www.topstarnews.net/news/articleView.html?idxno=16279435
 https://www.topstarnews.net/news/articleView.html?idxno=16280062
 https://www.vegannews.co.kr/news/article.html?no=407321
+https://www.webeconomy.co.kr/news/articleView.html?idxno=2380528
 https://www.yna.co.kr/view/AKR20261118185700007?input=1195m
 https://www.youngnong.co.kr/news/articleView.html?idxno=71977

@@ -26,6 +26,7 @@ https://news.cpbc.co.kr/article/1177130?division=NAVER
 https://news.sbs.co.kr/news/endPage.do?news_id=N1008852694&plink=ORI&cooper=NAVER
 https://news.tf.co.kr/read/life/2390665.htm
 https://view.asiae.co.kr/article/2026111818220668969
+https://www.ajunews.com/view/20261119005308643
 https://www.asiatoday.co.kr/kn/view.php?key=20261118010006903
 https://www.cbci.co.kr/news/articleView.html?idxno=628337
 https://www.cbci.co.kr/news/articleView.html?idxno=628426
@@ -36,6 +37,7 @@ https://www.dt.co.kr/article/12096025?ref=naver
 https://www.dt.co.kr/article/12096026?ref=naver
 https://www.ebn.co.kr/news/articleView.html?idxno=1732201
 https://www.edaily.co.kr/News/Read?newsId=04569046645647032&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
+https://www.etoday.co.kr/news/view/2649919
 https://www.g-enews.com/view.php?ud=2026111821351543629a1f309431_1
 https://www.hankyung.com/article/2026111855481
 https://www.hidomin.com/news/articleView.html?idxno=730064
@@ -58,9 +60,13 @@ https://www.newsis.com/view/NISX20261118_0003872936
 https://www.newsworks.co.kr/news/articleView.html?idxno=903581
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=505159
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=505526
+https://www.pinpointnews.co.kr/news/articleView.html?idxno=505643
 https://www.sedaily.com/article/20116197?ref=naver
 https://www.segye.com/newsView/20261118516754?OutUrl=naver
 https://www.shinailbo.co.kr/news/articleView.html?idxno=5084844
+https://www.sidae.com/article/2026111714214050843
+https://www.sidae.com/article/2026111714594514642
+https://www.sidae.com/article/2026111814103164749
 https://www.the-today.com/news/articleView.html?idxno=93789
 https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611160826575680107820
 https://www.topstarnews.net/news/articleView.html?idxno=16279435

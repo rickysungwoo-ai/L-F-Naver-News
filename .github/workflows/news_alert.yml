@@ -1,0 +1,36 @@
+name: Naver News Alert
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # 5분마다 자동으로 실행
+  workflow_dispatch:       # 내가 직접 버튼 눌러서 테스트할 때도 실행
+
+permissions:
+  contents: write          # 이미 보낸 기사 목록(seen_links.txt)을 저장하기 위해 필요
+
+jobs:
+  check-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 코드 가져오기
+        uses: actions/checkout@v4
+
+      - name: 파이썬 준비하기
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 도구 설치하기
+        run: pip install -r requirements.txt
+
+      - name: 뉴스 확인하고 알림 보내기
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python naver_news.py
+
+      - name: 본 기사 목록 기억해두기
+        run: |
+          git config user.name "news-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add seen_links.txt
+          git diff --staged --quiet || (git commit -m "Update seen links" && git push)

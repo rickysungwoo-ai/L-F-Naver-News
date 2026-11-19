@@ -103,6 +103,7 @@ https://vop.co.kr/A00001697680.html
 https://www.aitimes.kr/news/articleView.html?idxno=42810
 https://www.ajunews.com/view/20261119005308643
 https://www.ajunews.com/view/20261119132859919
+https://www.apnews.kr/news/articleView.html?idxno=3053330
 https://www.asiaa.co.kr/news/articleView.html?idxno=271802
 https://www.asiatime.co.kr/article/20261119500302
 https://www.asiatoday.co.kr/kn/view.php?key=20261118010006903
@@ -131,12 +132,15 @@ https://www.dailian.co.kr/news/view/1717280/?sc=Naver
 https://www.dailycar.co.kr/content/news.html?type=view&autoId=63243
 https://www.datanet.co.kr/news/articleView.html?idxno=300334
 https://www.ddaily.co.kr/page/view/2026111914325147580
+https://www.ddaily.co.kr/page/view/2026111918084312983
 https://www.delighti.co.kr/news/articleView.html?idxno=125265
 https://www.digitaltoday.co.kr/news/articleView.html?idxno=716460
 https://www.digitaltoday.co.kr/news/articleView.html?idxno=716736
 https://www.dkilbo.com/news/articleView.html?idxno=561348
+https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611191438363590813
 https://www.donga.com/news/Economy/article/all/20261119/135056627/2
 https://www.donga.com/news/Society/article/all/20261119/135053259/1
+https://www.donga.com/news/Society/article/all/20261119/135056979/2
 https://www.dt.co.kr/article/12096025?ref=naver
 https://www.dt.co.kr/article/12096026?ref=naver
 https://www.dt.co.kr/article/12096266?ref=naver
@@ -223,6 +227,8 @@ https://www.mk.co.kr/article/12213127
 https://www.mk.co.kr/article/12213868
 https://www.moneystorm.kr/news/articleView.html?idxno=8605
 https://www.mt.co.kr/industry/2026/11/19/2026111913182566767
+https://www.mt.co.kr/industry/2026/11/20/2026111920034840661
+https://www.mt.co.kr/tech/2026/11/20/2026111920161827464
 https://www.munhwa.com/article/11632515?ref=naver
 https://www.naeil.com/news/read/609337?ref=naver
 https://www.news1.kr/finance/general-stock/6359478
@@ -257,6 +263,7 @@ https://www.newsway.co.kr/news/view?ud=2026111917440279298
 https://www.newsworker.co.kr/news/articleView.html?idxno=514991
 https://www.newsworks.co.kr/news/articleView.html?idxno=903581
 https://www.niceeconomy.co.kr/news/articleView.html?idxno=91881
+https://www.nocutnews.co.kr/news/6609891?utm_source=naver&utm_medium=article&utm_campaign=20261120050111
 https://www.peoplewatch.co.kr/article/view/ppw202611190005
 https://www.pharmnews.com/news/articleView.html?idxno=307966
 https://www.pharmnews.com/news/articleView.html?idxno=308022
@@ -269,6 +276,7 @@ https://www.pinpointnews.co.kr/news/articleView.html?idxno=505953
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=506006
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=506028
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=506095
+https://www.pinpointnews.co.kr/news/articleView.html?idxno=506105
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326666
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326717
 https://www.polinews.co.kr/news/articleView.html?idxno=748794
@@ -283,8 +291,10 @@ https://www.segye.com/newsView/20261118516643?OutUrl=naver
 https://www.segye.com/newsView/20261118516754?OutUrl=naver
 https://www.segye.com/newsView/20261118521045?OutUrl=naver
 https://www.segye.com/newsView/20261119512382?OutUrl=naver
+https://www.segye.com/newsView/20261119516019?OutUrl=naver
 https://www.segye.com/newsView/20261119518318?OutUrl=naver
 https://www.sentv.co.kr/article/view/sentv202611190091
+https://www.seoul.co.kr/news/economy/industry/2026/11/20/20261120032006?wlog_tag3=naver
 https://www.shinailbo.co.kr/news/articleView.html?idxno=5084844
 https://www.sidae.com/article/2026111714214050843
 https://www.sidae.com/article/2026111714594514642
@@ -303,6 +313,7 @@ https://www.the-today.com/news/articleView.html?idxno=93789
 https://www.the-today.com/news/articleView.html?idxno=93796
 https://www.the-today.com/news/articleView.html?idxno=93797
 https://www.the-today.com/news/articleView.html?idxno=93818
+https://www.the-today.com/news/articleView.html?idxno=93844
 https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611160826575680107820
 https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611162009565920104275
 https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611171200321840106716
@@ -335,3 +346,4 @@ https://www.youngnong.co.kr/news/articleView.html?idxno=71977
 https://www.youthdaily.co.kr/news/article.html?no=230002
 https://www.ziksir.com/news/articleView.html?idxno=153938
 https://zdnet.co.kr/view/?no=20261119121922
+https://zdnet.co.kr/view/?no=20261120054534

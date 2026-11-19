@@ -50,8 +50,10 @@ http://www.metroseoul.co.kr/article/20261118500464
 http://www.newscape.co.kr/news/articleView.html?idxno=125929
 http://www.newskr.kr/news/articleView.html?idxno=108134
 http://www.newskr.kr/news/articleView.html?idxno=108137
+http://www.newskr.kr/news/articleView.html?idxno=108154
 http://www.newsprime.co.kr/news/article.html?no=755637
 http://www.newsroad.co.kr/news/articleView.html?idxno=68021
+http://www.newsroad.co.kr/news/articleView.html?idxno=68100
 http://www.newstomato.com/ReadNews.aspx?no=1321074&inflow=N
 http://www.newstomato.com/ReadNews.aspx?no=1321078&inflow=N
 http://www.newstown.co.kr/news/articleView.html?idxno=722423
@@ -121,12 +123,14 @@ https://www.bloter.net/news/articleView.html?idxno=679093
 https://www.bloter.net/news/articleView.html?idxno=679181
 https://www.busan.com/view/busan/view.php?code=2026111910303396382
 https://www.businesskorea.co.kr/news/articleView.html?idxno=281672
+https://www.businessplus.kr/news/articleView.html?idxno=120163
 https://www.businesspost.co.kr/BP?command=article_view&num=452369
 https://www.cbci.co.kr/news/articleView.html?idxno=628337
 https://www.cbci.co.kr/news/articleView.html?idxno=628426
 https://www.cbci.co.kr/news/articleView.html?idxno=628622
 https://www.cbci.co.kr/news/articleView.html?idxno=628823
 https://www.ceoscoredaily.com/page/view/2026111915095340948
+https://www.ceoscoredaily.com/page/view/2026111915105368341
 https://www.chosun.com/economy/industry-company/2026/11/19/BDYQ4IA2QFDH7DZPPSZSSOVQMY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.chosun.com/economy/industry-company/2026/11/19/KFKLX4B7ZJHAVPXMHKOTC5B3OM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.cstimes.com/news/articleView.html?idxno=728560
@@ -164,6 +168,7 @@ https://www.etoday.co.kr/news/view/2649624
 https://www.etoday.co.kr/news/view/2649919
 https://www.etoday.co.kr/news/view/2650075
 https://www.etoday.co.kr/news/view/2650325
+https://www.financialpost.co.kr/news/articleView.html?idxno=301873
 https://www.financialpost.co.kr/news/articleView.html?idxno=301912
 https://www.financialpost.co.kr/news/articleView.html?idxno=301985
 https://www.fnnews.com/news/202611191046458427
@@ -249,7 +254,9 @@ https://www.news2day.co.kr/article/20261119500038
 https://www.news2day.co.kr/article/20261119500158
 https://www.news2day.co.kr/article/20261119500379
 https://www.newsclaim.co.kr/news/articleView.html?idxno=3083332
+https://www.newsclaim.co.kr/news/articleView.html?idxno=3083412
 https://www.newsclaim.co.kr/news/articleView.html?idxno=3083416
+https://www.newsclaim.co.kr/news/articleView.html?idxno=3083466
 https://www.newsian.co.kr/news/articleView.html?idxno=101575
 https://www.newsinside.kr/news/articleView.html?idxno=5051087
 https://www.newsinside.kr/news/articleView.html?idxno=5051978
@@ -301,6 +308,7 @@ https://www.sedaily.com/article/20116193?ref=naver
 https://www.sedaily.com/article/20116197?ref=naver
 https://www.sedaily.com/article/20116332?ref=naver
 https://www.sedaily.com/article/20116618?ref=naver
+https://www.sedaily.com/article/20116721?ref=naver
 https://www.segye.com/newsView/20261118516643?OutUrl=naver
 https://www.segye.com/newsView/20261118516754?OutUrl=naver
 https://www.segye.com/newsView/20261118521045?OutUrl=naver
@@ -318,6 +326,7 @@ https://www.sidae.com/article/2026111810315935235
 https://www.sidae.com/article/2026111814103164749
 https://www.sidae.com/article/2026111815482155303
 https://www.sisajournal.com/news/articleView.html?idxno=394722
+https://www.slist.kr/news/articleView.html?idxno=783238
 https://www.smartbizn.com/news/articleView.html?idxno=159949
 https://www.socialvalue.kr/news/view/1065582198972769
 https://www.socialvalue.kr/news/view/1065594534194898
@@ -337,6 +346,7 @@ https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611171310339760104
 https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611181444361520102435
 https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611181632197240107874
 https://www.thelec.kr/news/articleView.html?idxno=65684
+https://www.thesportstimes.co.kr/news/articleView.html?idxno=377729
 https://www.tjb.co.kr/news05/bodo/view/id/106276
 https://www.tokenpost.kr/news/blockchain/440517
 https://www.topstarnews.net/news/articleView.html?idxno=16279435

@@ -5,6 +5,7 @@ http://www.beyondpost.co.kr/view.php?ud=2026111818575011824c878f8fa1_30
 http://www.beyondpost.co.kr/view.php?ud=202611191148158642205868f676_30
 http://www.biztribune.co.kr/news/articleView.html?idxno=362761
 http://www.breaknews.com/1252263
+http://www.ccnnews.co.kr/news/articleView.html?idxno=418079
 http://www.cctimes.kr/news/articleView.html?idxno=938223
 http://www.choicenews.co.kr/news/articleView.html?idxno=173342
 http://www.consumernews.co.kr/news/articleView.html?idxno=768484
@@ -119,6 +120,7 @@ https://www.businesspost.co.kr/BP?command=article_view&num=452369
 https://www.cbci.co.kr/news/articleView.html?idxno=628337
 https://www.cbci.co.kr/news/articleView.html?idxno=628426
 https://www.cbci.co.kr/news/articleView.html?idxno=628622
+https://www.cbci.co.kr/news/articleView.html?idxno=628823
 https://www.ceoscoredaily.com/page/view/2026111915095340948
 https://www.chosun.com/economy/industry-company/2026/11/19/BDYQ4IA2QFDH7DZPPSZSSOVQMY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.chosun.com/economy/industry-company/2026/11/19/KFKLX4B7ZJHAVPXMHKOTC5B3OM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
@@ -321,6 +323,7 @@ https://www.vegannews.co.kr/news/article.html?no=407793
 https://www.viva100.com/article/20261119500424
 https://www.viva100.com/article/20261119500610
 https://www.webeconomy.co.kr/news/articleView.html?idxno=2380528
+https://www.webeconomy.co.kr/news/articleView.html?idxno=2383752
 https://www.wikitree.co.kr/articles/1175917
 https://www.womennews.co.kr/news/articleView.html?idxno=284669
 https://www.yna.co.kr/view/AKR20261118093500008?input=1195m

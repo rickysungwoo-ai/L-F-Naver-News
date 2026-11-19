@@ -2,7 +2,7 @@ name: Naver News Alert
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # 5분마다 자동으로 실행
+    - cron: "*/30 * * * *"  # 30분마다 자동으로 실행
   workflow_dispatch:       # 내가 직접 버튼 눌러서 테스트할 때도 실행
 
 permissions:

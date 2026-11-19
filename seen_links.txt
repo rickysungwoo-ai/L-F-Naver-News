@@ -1,6 +1,7 @@
 http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/18/2026111880209.html
 http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963769
 http://www.beyondpost.co.kr/view.php?ud=2026111818575011824c878f8fa1_30
+http://www.beyondpost.co.kr/view.php?ud=202611191148158642205868f676_30
 http://www.biztribune.co.kr/news/articleView.html?idxno=362761
 http://www.consumernews.co.kr/news/articleView.html?idxno=768484
 http://www.datanews.co.kr/news/article.html?no=147721
@@ -13,6 +14,7 @@ http://www.fieldnews.kr/news/articleView.html?idxno=33201
 http://www.gjdream.com/news/articleView.html?idxno=674463
 http://www.hansbiz.co.kr/news/articleView.html?idxno=884725
 http://www.hansbiz.co.kr/news/articleView.html?idxno=884884
+http://www.hansbiz.co.kr/news/articleView.html?idxno=885066
 http://www.inews24.com/view/2027322
 http://www.inews24.com/view/2027807
 http://www.inews24.com/view/2027906
@@ -52,6 +54,7 @@ https://it.donga.com/109957/
 https://kr.aving.net/news/articleView.html?idxno=1817187
 https://news.cpbc.co.kr/article/1177130?division=NAVER
 https://news.mtn.co.kr/article/2026111814225576412
+https://news.mtn.co.kr/article/2026111909585489849
 https://news.sbs.co.kr/news/endPage.do?news_id=N1008852694&plink=ORI&cooper=NAVER
 https://news.tf.co.kr/read/life/2390665.htm
 https://slownews.kr/169762
@@ -96,6 +99,7 @@ https://www.investchosun.com/site/data/html_dir/2026/11/18/2026111880095.html
 https://www.job-post.co.kr/news/articleView.html?idxno=239367
 https://www.joongang.co.kr/article/25479945
 https://www.joongang.co.kr/article/25479966
+https://www.junggi.co.kr/news/articleView.html?idxno=38557
 https://www.kbmaeil.com/article/20261117500367
 https://www.kbmaeil.com/article/20261118500474
 https://www.khan.co.kr/article/202611182014065
@@ -109,6 +113,7 @@ https://www.m-economynews.com/news/article.html?no=73266
 https://www.meconomynews.com/news/articleView.html?idxno=203862
 https://www.mk.co.kr/article/12207917
 https://www.mk.co.kr/article/12213127
+https://www.munhwa.com/article/11632515?ref=naver
 https://www.news2day.co.kr/article/20261119500009
 https://www.news2day.co.kr/article/20261119500158
 https://www.newsian.co.kr/news/articleView.html?idxno=101575
@@ -118,6 +123,8 @@ https://www.newsis.com/view/NISX20261118_0003873585
 https://www.newspim.com/news/view/20261118000541
 https://www.newspim.com/news/view/20261118001124
 https://www.newspim.com/news/view/20261119000665
+https://www.newspost.kr/news/articleView.html?idxno=227582
+https://www.newsworker.co.kr/news/articleView.html?idxno=514991
 https://www.newsworks.co.kr/news/articleView.html?idxno=903581
 https://www.niceeconomy.co.kr/news/articleView.html?idxno=91881
 https://www.pharmnews.com/news/articleView.html?idxno=307966
@@ -127,6 +134,7 @@ https://www.pinpointnews.co.kr/news/articleView.html?idxno=505526
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=505643
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=505662
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=505676
+https://www.public25.com/news/articleView.html?idxno=58670
 https://www.rcast.co.kr/news/articleView.html?idxno=32095
 https://www.sedaily.com/article/20116159?ref=naver
 https://www.sedaily.com/article/20116193?ref=naver
@@ -143,6 +151,7 @@ https://www.sidae.com/article/2026111809210855744
 https://www.sidae.com/article/2026111814103164749
 https://www.sidae.com/article/2026111815482155303
 https://www.smartbizn.com/news/articleView.html?idxno=159949
+https://www.socialvalue.kr/news/view/1065582198972769
 https://www.startuptoday.co.kr/news/articleView.html?idxno=819406
 https://www.tbc.co.kr/news/view?pno=20261118165851AE08795&id=213538
 https://www.the-today.com/news/articleView.html?idxno=93789
@@ -158,6 +167,7 @@ https://www.tjb.co.kr/news05/bodo/view/id/106276
 https://www.topstarnews.net/news/articleView.html?idxno=16279435
 https://www.topstarnews.net/news/articleView.html?idxno=16280062
 https://www.vegannews.co.kr/news/article.html?no=407321
+https://www.viva100.com/article/20261119500424
 https://www.viva100.com/article/20261119500610
 https://www.webeconomy.co.kr/news/articleView.html?idxno=2380528
 https://www.yna.co.kr/view/AKR20261118093500008?input=1195m

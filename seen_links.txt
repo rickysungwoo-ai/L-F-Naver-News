@@ -48,6 +48,7 @@ http://www.inews24.com/view/2027807
 http://www.inews24.com/view/2027906
 http://www.inews24.com/view/2028396
 http://www.inews24.com/view/2028600
+http://www.issuenbiz.com/news/articleView.html?idxno=81852
 http://www.jeonmin.co.kr/news/articleView.html?idxno=450845
 http://www.kjdaily.com/article.php?aid=1794929020692716276
 http://www.kjdaily.com/article.php?aid=1795000698692838002
@@ -58,6 +59,8 @@ http://www.kjdaily.com/article.php?aid=1795059437692873276
 http://www.kjdaily.com/article.php?aid=1795144275692970276
 http://www.kjdaily.com/article.php?aid=1795145496692971276
 http://www.kjdaily.com/article.php?aid=1795174811693007276
+http://www.kjdaily.com/article.php?aid=1795187411693011276
+http://www.kjdaily.com/article.php?aid=1795187479692983276
 http://www.lkp.news/news/articleView.html?idxno=86237
 http://www.lkp.news/news/articleView.html?idxno=86261
 http://www.metroseoul.co.kr/article/20261118500280
@@ -71,6 +74,7 @@ http://www.newskr.kr/news/articleView.html?idxno=108137
 http://www.newskr.kr/news/articleView.html?idxno=108154
 http://www.newskr.kr/news/articleView.html?idxno=108173
 http://www.newskr.kr/news/articleView.html?idxno=108175
+http://www.newskr.kr/news/articleView.html?idxno=108184
 http://www.newskr.kr/news/articleView.html?idxno=108185
 http://www.newskr.kr/news/articleView.html?idxno=108186
 http://www.newsprime.co.kr/news/article.html?no=755637
@@ -196,6 +200,8 @@ https://www.ceoscoredaily.com/page/view/2026111915105368341
 https://www.ceoscoredaily.com/page/view/2026112012291265360
 https://www.chosun.com/economy/industry-company/2026/11/19/BDYQ4IA2QFDH7DZPPSZSSOVQMY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.chosun.com/economy/industry-company/2026/11/19/KFKLX4B7ZJHAVPXMHKOTC5B3OM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
+https://www.chosun.com/economy/tech_it/2026/11/21/TVL4QU6EGJB7XHKRDIF2SE4BQQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
+https://www.chosun.com/sports/basketball/2026/11/21/6NXGZT3WQVC6NA5LVOALLDFFLY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.cnbnews.com/news/articleView.html?idxno=1024635
 https://www.cstimes.com/news/articleView.html?idxno=728560
 https://www.cstimes.com/news/articleView.html?idxno=728656
@@ -257,6 +263,7 @@ https://www.fnnews.com/news/202611191822167602
 https://www.fnnews.com/news/202611201047515871
 https://www.fntoday.co.kr/news/articleView.html?idxno=399352
 https://www.g-enews.com/view.php?ud=2026111821351543629a1f309431_1
+https://www.g-enews.com/view.php?ud=202611190838536898906806b77b_1
 https://www.g-enews.com/view.php?ud=2026111914561818913084322ec9_1
 https://www.g-enews.com/view.php?ud=20261119150343411e30fcb1ba8_1
 https://www.g-enews.com/view.php?ud=202611191509465152139bf6e4b2_1

@@ -24,6 +24,7 @@ http://www.econonews.co.kr/news/articleView.html?idxno=447479
 http://www.econonews.co.kr/news/articleView.html?idxno=447480
 http://www.enewstoday.co.kr/news/articleView.html?idxno=2494390
 http://www.enewstoday.co.kr/news/articleView.html?idxno=2494891
+http://www.enewstoday.co.kr/news/articleView.html?idxno=2495080
 http://www.enewstoday.co.kr/news/articleView.html?idxno=2495089
 http://www.enewstoday.co.kr/news/articleView.html?idxno=2495228
 http://www.ferrotimes.com/news/articleView.html?idxno=51548
@@ -144,6 +145,7 @@ https://news.einfomax.co.kr/news/articleView.html?idxno=4445751
 https://news.ifm.kr/news/articleView.html?idxno=484923
 https://news.jtbc.co.kr/article/NB12329020?influxDiv=NAVER
 https://news.jtbc.co.kr/article/NB12329021?influxDiv=NAVER
+https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719073&ref=A
 https://news.mtn.co.kr/article/2026111814225576412
 https://news.mtn.co.kr/article/2026111909585489849
 https://news.mtn.co.kr/article/2026111916161453796
@@ -179,6 +181,7 @@ https://www.asiatoday.co.kr/kn/view.php?key=20261120010007981
 https://www.autodaily.co.kr/news/articleView.html?idxno=602261
 https://www.autodaily.co.kr/news/articleView.html?idxno=602262
 https://www.autodaily.co.kr/news/articleView.html?idxno=602281
+https://www.autodaily.co.kr/news/articleView.html?idxno=602298
 https://www.banronbodo.com/news/articleView.html?idxno=33390
 https://www.banronbodo.com/news/articleView.html?idxno=33400
 https://www.betanews.net/article/view/beta202611190164
@@ -265,6 +268,7 @@ https://www.etoday.co.kr/news/view/2651071
 https://www.financialpost.co.kr/news/articleView.html?idxno=301873
 https://www.financialpost.co.kr/news/articleView.html?idxno=301912
 https://www.financialpost.co.kr/news/articleView.html?idxno=301985
+https://www.financialpost.co.kr/news/articleView.html?idxno=302301
 https://www.fnnews.com/news/202611191046458427
 https://www.fnnews.com/news/202611191449356076
 https://www.fnnews.com/news/202611191818116892
@@ -451,6 +455,7 @@ https://www.peoplewatch.co.kr/article/view/ppw202611190005
 https://www.pharmnews.com/news/articleView.html?idxno=307966
 https://www.pharmnews.com/news/articleView.html?idxno=307967
 https://www.pharmnews.com/news/articleView.html?idxno=308022
+https://www.pharmnews.com/news/articleView.html?idxno=308195
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=505159
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=505526
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=505643
@@ -469,6 +474,7 @@ https://www.pinpointnews.co.kr/news/articleView.html?idxno=506518
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=506519
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=506520
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=506521
+https://www.pinpointnews.co.kr/news/articleView.html?idxno=506529
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326666
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326717
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326845
@@ -494,6 +500,7 @@ https://www.segye.com/newsView/20261119516075?OutUrl=naver
 https://www.segye.com/newsView/20261119518318?OutUrl=naver
 https://www.sentv.co.kr/article/view/sentv202611190091
 https://www.sentv.co.kr/article/view/sentv202611200123
+https://www.sentv.co.kr/article/view/sentv202611210002
 https://www.seoul.co.kr/news/economy/industry/2026/11/20/20261120032006?wlog_tag3=naver
 https://www.seoul.co.kr/news/economy/securities/2026/11/20/20261120500305?wlog_tag3=naver
 https://www.shinailbo.co.kr/news/articleView.html?idxno=5084844
@@ -538,6 +545,7 @@ https://www.thesportstimes.co.kr/news/articleView.html?idxno=377729
 https://www.tjb.co.kr/news05/bodo/view/id/106276
 https://www.tokenpost.kr/news/blockchain/440517
 https://www.tokenpost.kr/news/blockchain/441297
+https://www.tokenpost.kr/news/insights/441887
 https://www.topstarnews.net/news/articleView.html?idxno=16279435
 https://www.topstarnews.net/news/articleView.html?idxno=16280062
 https://www.topstarnews.net/news/articleView.html?idxno=16280840

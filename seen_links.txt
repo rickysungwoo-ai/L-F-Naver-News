@@ -109,6 +109,7 @@ http://www.yonhapnewstv.co.kr/news/MYH20261119231130kUw
 https://biz.chosun.com/industry/business-venture/2026/11/20/T4KQ7RPIG5EOTAQ2YUALQ3OIZY/?utm_source=naver&utm_medium=original&utm_campaign=biz
 https://biz.chosun.com/stock/market_trend/2026/11/20/56JLOTG5AJGVBBBX6UI4QTFYYI/?utm_source=naver&utm_medium=original&utm_campaign=biz
 https://biz.chosun.com/stock/stock_general/2026/11/20/IVSX2POPZVFGXLZKJSWDILPSXQ/?utm_source=naver&utm_medium=original&utm_campaign=biz
+https://biz.chosun.com/stock/stock_general/2026/11/21/VFBQFBVPMNAWBMOPDYCQQ5QCXI/?utm_source=naver&utm_medium=original&utm_campaign=biz
 https://biz.heraldcorp.com/article/10941327?ref=naver
 https://biz.heraldcorp.com/article/10942177?ref=naver
 https://biz.heraldcorp.com/article/10942547?ref=naver
@@ -148,6 +149,7 @@ https://news.mtn.co.kr/article/2026111909585489849
 https://news.mtn.co.kr/article/2026111916161453796
 https://news.sbs.co.kr/news/endPage.do?news_id=N1008852694&plink=ORI&cooper=NAVER
 https://news.sbs.co.kr/news/endPage.do?news_id=N1008854698&plink=ORI&cooper=NAVER
+https://news.sbs.co.kr/news/endPage.do?news_id=N1008856581&plink=ORI&cooper=NAVER
 https://news.tf.co.kr/read/economy/2391196.htm
 https://news.tf.co.kr/read/economy/2391637.htm
 https://news.tf.co.kr/read/life/2390665.htm
@@ -198,6 +200,7 @@ https://www.cbci.co.kr/news/articleView.html?idxno=629040
 https://www.ceoscoredaily.com/page/view/2026111915095340948
 https://www.ceoscoredaily.com/page/view/2026111915105368341
 https://www.ceoscoredaily.com/page/view/2026112012291265360
+https://www.ceoscoredaily.com/page/view/2026112016442834447
 https://www.chosun.com/economy/industry-company/2026/11/19/BDYQ4IA2QFDH7DZPPSZSSOVQMY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.chosun.com/economy/industry-company/2026/11/19/KFKLX4B7ZJHAVPXMHKOTC5B3OM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.chosun.com/economy/tech_it/2026/11/21/TVL4QU6EGJB7XHKRDIF2SE4BQQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
@@ -254,6 +257,7 @@ https://www.etoday.co.kr/news/view/2649919
 https://www.etoday.co.kr/news/view/2650075
 https://www.etoday.co.kr/news/view/2650325
 https://www.etoday.co.kr/news/view/2650920
+https://www.etoday.co.kr/news/view/2651071
 https://www.financialpost.co.kr/news/articleView.html?idxno=301873
 https://www.financialpost.co.kr/news/articleView.html?idxno=301912
 https://www.financialpost.co.kr/news/articleView.html?idxno=301985
@@ -362,6 +366,7 @@ https://www.mk.co.kr/article/12213127
 https://www.mk.co.kr/article/12213868
 https://www.mk.co.kr/article/12214266
 https://www.mk.co.kr/article/12214679
+https://www.mk.co.kr/article/12215101
 https://www.moneystorm.kr/news/articleView.html?idxno=8605
 https://www.moneystorm.kr/news/articleView.html?idxno=8626
 https://www.moneystorm.kr/news/articleView.html?idxno=8649
@@ -435,6 +440,7 @@ https://www.niceeconomy.co.kr/news/articleView.html?idxno=91881
 https://www.nocutnews.co.kr/news/6609891?utm_source=naver&utm_medium=article&utm_campaign=20261120050111
 https://www.peoplewatch.co.kr/article/view/ppw202611190005
 https://www.pharmnews.com/news/articleView.html?idxno=307966
+https://www.pharmnews.com/news/articleView.html?idxno=307967
 https://www.pharmnews.com/news/articleView.html?idxno=308022
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=505159
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=505526

@@ -104,6 +104,7 @@ http://www.popcornnews.net/news/articleView.html?idxno=140838
 http://www.popcornnews.net/news/articleView.html?idxno=140908
 http://www.press9.kr/news/articleView.html?idxno=86759
 http://www.queen.co.kr/news/articleView.html?idxno=466695
+http://www.queen.co.kr/news/articleView.html?idxno=466703
 http://www.rookie.co.kr/news/articleView.html?idxno=130835
 http://www.seouleconews.com/news/articleView.html?idxno=95121
 http://www.sisacast.kr/news/articleView.html?idxno=102120
@@ -196,6 +197,7 @@ https://www.ajunews.com/view/20261119132859919
 https://www.ajunews.com/view/20261120110050532
 https://www.ajunews.com/view/20261120213700764
 https://www.ajunews.com/view/20261121163133087
+https://www.ajunews.com/view/20261121214444202
 https://www.apnews.kr/news/articleView.html?idxno=3053330
 https://www.asiaa.co.kr/news/articleView.html?idxno=271802
 https://www.asiatime.co.kr/article/20261119500302
@@ -213,6 +215,7 @@ https://www.bigtanews.co.kr/article/view/big202611190027
 https://www.bigtanews.co.kr/article/view/big202611200024
 https://www.bloter.net/news/articleView.html?idxno=679093
 https://www.bloter.net/news/articleView.html?idxno=679181
+https://www.bloter.net/news/articleView.html?idxno=679307
 https://www.busan.com/view/busan/view.php?code=2026111910303396382
 https://www.businesskorea.co.kr/news/articleView.html?idxno=281672
 https://www.businesskorea.co.kr/news/articleView.html?idxno=281841
@@ -318,6 +321,7 @@ https://www.g-enews.com/view.php?ud=202611192044235324e30fcb1ba8_1
 https://www.g-enews.com/view.php?ud=20261120083948914844093b5d4e_1
 https://www.g-enews.com/view.php?ud=202611201303429615923c501012_1
 https://www.g-enews.com/view.php?ud=202611201539511559923c501012_1
+https://www.g-enews.com/view.php?ud=2026112121190777602bd56fbc3c_1
 https://www.gamevu.co.kr/news/articleView.html?idxno=62463
 https://www.getnews.co.kr/news/articleView.html?idxno=887802
 https://www.getnews.co.kr/news/articleView.html?idxno=887956
@@ -636,6 +640,7 @@ https://www.webeconomy.co.kr/news/articleView.html?idxno=2383752
 https://www.wikileaks-kr.org/news/articleView.html?idxno=194972
 https://www.wikitree.co.kr/articles/1175917
 https://www.wikitree.co.kr/articles/1176037
+https://www.wikitree.co.kr/articles/1176596
 https://www.womennews.co.kr/news/articleView.html?idxno=284669
 https://www.yna.co.kr/view/AKR20261118093500008?input=1195m
 https://www.yna.co.kr/view/AKR20261118185700007?input=1195m

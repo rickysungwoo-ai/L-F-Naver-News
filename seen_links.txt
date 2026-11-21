@@ -170,6 +170,7 @@ https://sateconomy.co.kr/news/view/1065574337850682
 https://sjbnews.com/news/news.php?number=893040
 https://slownews.kr/169762
 https://sports.donga.com/economy/article/all/20261121/135064656/1
+https://sports.hankooki.com/news/articleView.html?idxno=6943988
 https://sports.khan.co.kr/article/202611202109003?pt=nv
 https://thetracker.co.kr/View.aspx?No=4320535
 https://view.asiae.co.kr/article/2026111818220668969
@@ -246,6 +247,7 @@ https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611191438363590813
 https://www.donga.com/news/Economy/article/all/20261119/135056627/2
 https://www.donga.com/news/Economy/article/all/20261120/135058851/1
 https://www.donga.com/news/Economy/article/all/20261120/135059714/1
+https://www.donga.com/news/Economy/article/all/20261121/135061314/1
 https://www.donga.com/news/Society/article/all/20261119/135053259/1
 https://www.donga.com/news/Society/article/all/20261119/135056979/2
 https://www.dt.co.kr/article/12096025?ref=naver
@@ -277,8 +279,10 @@ https://www.etoday.co.kr/news/view/2649624
 https://www.etoday.co.kr/news/view/2649919
 https://www.etoday.co.kr/news/view/2650075
 https://www.etoday.co.kr/news/view/2650325
+https://www.etoday.co.kr/news/view/2650787
 https://www.etoday.co.kr/news/view/2650920
 https://www.etoday.co.kr/news/view/2651071
+https://www.etoday.co.kr/news/view/2651195
 https://www.financialpost.co.kr/news/articleView.html?idxno=301873
 https://www.financialpost.co.kr/news/articleView.html?idxno=301912
 https://www.financialpost.co.kr/news/articleView.html?idxno=301985
@@ -580,6 +584,7 @@ https://www.thesportstimes.co.kr/news/articleView.html?idxno=377729
 https://www.tjb.co.kr/news05/bodo/view/id/106276
 https://www.tokenpost.kr/news/blockchain/440517
 https://www.tokenpost.kr/news/blockchain/441297
+https://www.tokenpost.kr/news/blockchain/442036
 https://www.tokenpost.kr/news/insights/441887
 https://www.topstarnews.net/news/articleView.html?idxno=16279435
 https://www.topstarnews.net/news/articleView.html?idxno=16280062
@@ -588,6 +593,7 @@ https://www.topstarnews.net/news/articleView.html?idxno=16280873
 https://www.topstarnews.net/news/articleView.html?idxno=16280977
 https://www.topstarnews.net/news/articleView.html?idxno=16280995
 https://www.topstarnews.net/news/articleView.html?idxno=16281728
+https://www.topstarnews.net/news/articleView.html?idxno=16282158
 https://www.vegannews.co.kr/news/article.html?no=407321
 https://www.vegannews.co.kr/news/article.html?no=407793
 https://www.veritas-a.com/news/articleView.html?idxno=638332

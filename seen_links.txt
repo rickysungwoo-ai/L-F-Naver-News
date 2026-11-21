@@ -153,9 +153,12 @@ https://futurechosun.com/?p=167191
 https://futurechosun.com/?p=167202
 https://imnews.imbc.com/replay/2026/nwdesk/article/6867506_37004.html
 https://imnews.imbc.com/replay/2026/nwtoday/article/6867115_37012.html
+https://it.chosun.com/news/articleView.html?idxno=3000000001511
+https://it.chosun.com/news/articleView.html?idxno=3000000001530
 https://it.chosun.com/news/articleView.html?idxno=3000000001538
 https://it.donga.com/109957/
 https://kr.aving.net/news/articleView.html?idxno=1817187
+https://magazine.hankyung.com/business/article/202611169078b
 https://news.bbsi.co.kr/news/articleView.html?idxno=4120014
 https://news.bizwatch.co.kr/article/industry/2026/11/20/0035
 https://news.bizwatch.co.kr/article/industry/2026/11/20/0042
@@ -171,6 +174,7 @@ https://news.mtn.co.kr/article/2026111814225576412
 https://news.mtn.co.kr/article/2026111909585489849
 https://news.mtn.co.kr/article/2026111916161453796
 https://news.mtn.co.kr/article/2026112010374750272
+https://news.mtn.co.kr/article/2026112120024241348
 https://news.sbs.co.kr/news/endPage.do?news_id=N1008852694&plink=ORI&cooper=NAVER
 https://news.sbs.co.kr/news/endPage.do?news_id=N1008854698&plink=ORI&cooper=NAVER
 https://news.sbs.co.kr/news/endPage.do?news_id=N1008856581&plink=ORI&cooper=NAVER
@@ -179,6 +183,7 @@ https://news.tf.co.kr/read/economy/2391196.htm
 https://news.tf.co.kr/read/economy/2391637.htm
 https://news.tf.co.kr/read/life/2390665.htm
 https://news.unn.net/news/articleView.html?idxno=601075
+https://realty.chosun.com/site/data/html_dir/2026/11/20/2026112002005.html
 https://sateconomy.co.kr/news/view/1065538921275225
 https://sateconomy.co.kr/news/view/1065565552551100
 https://sateconomy.co.kr/news/view/1065574337850682
@@ -226,7 +231,9 @@ https://www.busan.com/view/busan/view.php?code=2026111910303396382
 https://www.businesskorea.co.kr/news/articleView.html?idxno=281672
 https://www.businesskorea.co.kr/news/articleView.html?idxno=281841
 https://www.businessplus.kr/news/articleView.html?idxno=120163
+https://www.businesspost.co.kr/BP?command=article_view&num=452289
 https://www.businesspost.co.kr/BP?command=article_view&num=452369
+https://www.businesspost.co.kr/BP?command=article_view&num=452416
 https://www.businesspost.co.kr/BP?command=article_view&num=452480
 https://www.businesspost.co.kr/BP?command=article_view&num=452505
 https://www.catchnews.kr/news/articleView.html?idxno=130781
@@ -254,6 +261,7 @@ https://www.dailian.co.kr/news/view/1717280/?sc=Naver
 https://www.dailian.co.kr/news/view/1717295/?sc=Naver
 https://www.dailian.co.kr/news/view/1717727/?sc=Naver
 https://www.dailian.co.kr/news/view/1717850/?sc=Naver
+https://www.dailian.co.kr/news/view/1717867/?sc=Naver
 https://www.dailycar.co.kr/content/news.html?type=view&autoId=63243
 https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435765
 https://www.datanet.co.kr/news/articleView.html?idxno=300334
@@ -382,6 +390,7 @@ https://www.joongang.co.kr/article/25479966
 https://www.joongang.co.kr/article/25480312
 https://www.joongang.co.kr/article/25480437
 https://www.joongang.co.kr/article/25480440
+https://www.joongang.co.kr/article/25480727
 https://www.joongangenews.com/news/articleView.html?idxno=565595
 https://www.joongangenews.com/news/articleView.html?idxno=565596
 https://www.joongangenews.com/news/articleView.html?idxno=565606
@@ -459,6 +468,7 @@ https://www.news1.kr/finance/general-stock/6360527
 https://www.news1.kr/finance/general-stock/6360759
 https://www.news1.kr/industry/auto-industry/6360029
 https://www.news1.kr/industry/general-industry/6359946
+https://www.news1.kr/industry/general-industry/6361699
 https://www.news2day.co.kr/article/20261119500009
 https://www.news2day.co.kr/article/20261119500038
 https://www.news2day.co.kr/article/20261119500158
@@ -610,6 +620,7 @@ https://www.the-today.com/news/articleView.html?idxno=93889
 https://www.the-today.com/news/articleView.html?idxno=93892
 https://www.the-today.com/news/articleView.html?idxno=93908
 https://www.the-today.com/news/articleView.html?idxno=93923
+https://www.the-today.com/news/articleView.html?idxno=93925
 https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611160826575680107820
 https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611162009565920104275
 https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611171200321840106716
@@ -658,6 +669,7 @@ https://www.yna.co.kr/view/AKR20261119123800008?input=1195m
 https://www.yna.co.kr/view/AKR20261119179900007?input=1195m
 https://www.yna.co.kr/view/AKR20261120075600008?input=1195m
 https://www.yna.co.kr/view/AKR20261120137900008?input=1195m
+https://www.yna.co.kr/view/AKR20261121000200008?input=1195m
 https://www.youngnong.co.kr/news/articleView.html?idxno=71977
 https://www.youthdaily.co.kr/news/article.html?no=230002
 https://www.youthdaily.co.kr/news/article.html?no=230169

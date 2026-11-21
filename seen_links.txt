@@ -200,7 +200,9 @@ https://thetracker.co.kr/View.aspx?No=4320535
 https://view.asiae.co.kr/article/2026111818220668969
 https://view.asiae.co.kr/article/2026111907224747374
 https://view.asiae.co.kr/article/2026111916125816241
+https://view.asiae.co.kr/article/2026111916543407375
 https://view.asiae.co.kr/article/2026112016060408804
+https://view.asiae.co.kr/article/2026112208333720635
 https://vop.co.kr/A00001697680.html
 https://weekly.donga.com/3/all/11/6467041/1
 https://www.aitimes.kr/news/articleView.html?idxno=42810
@@ -229,6 +231,7 @@ https://www.bloter.net/news/articleView.html?idxno=679093
 https://www.bloter.net/news/articleView.html?idxno=679181
 https://www.bloter.net/news/articleView.html?idxno=679307
 https://www.busan.com/view/busan/view.php?code=2026111910303396382
+https://www.busan.com/view/busan/view.php?code=2026111917352466636
 https://www.businesskorea.co.kr/news/articleView.html?idxno=281672
 https://www.businesskorea.co.kr/news/articleView.html?idxno=281841
 https://www.businessplus.kr/news/articleView.html?idxno=120163
@@ -341,6 +344,7 @@ https://www.g-enews.com/view.php?ud=202611201303429615923c501012_1
 https://www.g-enews.com/view.php?ud=202611201539511559923c501012_1
 https://www.g-enews.com/view.php?ud=2026112121190777602bd56fbc3c_1
 https://www.g-enews.com/view.php?ud=2026112122495160902bd56fbc3c_1
+https://www.gametoc.co.kr/news/articleView.html?idxno=113308
 https://www.gamevu.co.kr/news/articleView.html?idxno=62463
 https://www.getnews.co.kr/news/articleView.html?idxno=887802
 https://www.getnews.co.kr/news/articleView.html?idxno=887956
@@ -453,6 +457,7 @@ https://www.moneystorm.kr/news/articleView.html?idxno=8649
 https://www.moneystorm.kr/news/articleView.html?idxno=8692
 https://www.moneystorm.kr/news/articleView.html?idxno=8694
 https://www.moneystorm.kr/news/articleView.html?idxno=8697
+https://www.moneystorm.kr/news/articleView.html?idxno=8699
 https://www.mt.co.kr/economy/2026/11/20/2026111922465228766
 https://www.mt.co.kr/industry/2026/11/19/2026111913182566767
 https://www.mt.co.kr/industry/2026/11/20/2026111920034840661
@@ -488,6 +493,7 @@ https://www.newsclaim.co.kr/news/articleView.html?idxno=3083416
 https://www.newsclaim.co.kr/news/articleView.html?idxno=3083466
 https://www.newsclaim.co.kr/news/articleView.html?idxno=3083497
 https://www.newsclaim.co.kr/news/articleView.html?idxno=3083621
+https://www.newsfreezone.co.kr/news/articleView.html?idxno=720648
 https://www.newsian.co.kr/news/articleView.html?idxno=101575
 https://www.newsian.co.kr/news/articleView.html?idxno=101683
 https://www.newsinside.kr/news/articleView.html?idxno=5051087
@@ -649,6 +655,7 @@ https://www.tokenpost.kr/news/blockchain/440517
 https://www.tokenpost.kr/news/blockchain/441297
 https://www.tokenpost.kr/news/blockchain/442036
 https://www.tokenpost.kr/news/insights/441887
+https://www.tokenpost.kr/news/insights/442354
 https://www.topstarnews.net/news/articleView.html?idxno=16279435
 https://www.topstarnews.net/news/articleView.html?idxno=16280062
 https://www.topstarnews.net/news/articleView.html?idxno=16280840

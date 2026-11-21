@@ -46,6 +46,7 @@ http://www.hansbiz.co.kr/news/articleView.html?idxno=885319
 http://www.hansbiz.co.kr/news/articleView.html?idxno=885359
 http://www.hansbiz.co.kr/news/articleView.html?idxno=885376
 http://www.hansbiz.co.kr/news/articleView.html?idxno=885757
+http://www.hansbiz.co.kr/news/articleView.html?idxno=885758
 http://www.ikld.kr/news/articleView.html?idxno=344593
 http://www.ikpnews.net/news/articleView.html?idxno=72094
 http://www.inews24.com/view/2027322
@@ -246,6 +247,7 @@ https://www.datanet.co.kr/news/articleView.html?idxno=300334
 https://www.ddaily.co.kr/page/view/2026111914325147580
 https://www.ddaily.co.kr/page/view/2026111918084312983
 https://www.ddaily.co.kr/page/view/2026112012215835546
+https://www.ddaily.co.kr/page/view/2026112117391676765
 https://www.delighti.co.kr/news/articleView.html?idxno=125265
 https://www.digitaltoday.co.kr/news/articleView.html?idxno=716460
 https://www.digitaltoday.co.kr/news/articleView.html?idxno=716736
@@ -445,6 +447,7 @@ https://www.news2day.co.kr/article/20261119500379
 https://www.news2day.co.kr/article/20261121500005
 https://www.news2day.co.kr/article/20261121500007
 https://www.newscj.com/news/articleView.html?idxno=3450654
+https://www.newscj.com/news/articleView.html?idxno=3450904
 https://www.newsclaim.co.kr/news/articleView.html?idxno=3083332
 https://www.newsclaim.co.kr/news/articleView.html?idxno=3083412
 https://www.newsclaim.co.kr/news/articleView.html?idxno=3083416

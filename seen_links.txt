@@ -100,6 +100,7 @@ http://www.seouleconews.com/news/articleView.html?idxno=95121
 http://www.sisacast.kr/news/articleView.html?idxno=102120
 http://www.smedaily.co.kr/news/articleView.html?idxno=366429
 http://www.srtimes.kr/news/articleView.html?idxno=218140
+http://www.srtimes.kr/news/articleView.html?idxno=218238
 http://www.srtimes.kr/news/articleView.html?idxno=218240
 http://www.the-biz.co.kr/news/articleView.html?idxno=731666
 http://www.ujeil.com/news/articleView.html?idxno=395502
@@ -269,6 +270,7 @@ https://www.financialpost.co.kr/news/articleView.html?idxno=301873
 https://www.financialpost.co.kr/news/articleView.html?idxno=301912
 https://www.financialpost.co.kr/news/articleView.html?idxno=301985
 https://www.financialpost.co.kr/news/articleView.html?idxno=302301
+https://www.financialpost.co.kr/news/articleView.html?idxno=302333
 https://www.fnnews.com/news/202611191046458427
 https://www.fnnews.com/news/202611191449356076
 https://www.fnnews.com/news/202611191818116892
@@ -300,6 +302,7 @@ https://www.hankyung.com/article/2026111980736
 https://www.hankyung.com/article/2026111981301
 https://www.hankyung.com/article/2026111982761
 https://www.hankyung.com/article/2026111984011
+https://www.hankyung.com/article/2026112004536
 https://www.hankyung.com/article/2026112006421
 https://www.hellot.net/news/article.html?no=116484
 https://www.hidomin.com/news/articleView.html?idxno=730064
@@ -356,6 +359,7 @@ https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091469
 https://www.kyosu.net/news/articleView.html?idxno=212715
 https://www.lcnews.co.kr/news/articleView.html?idxno=211759
 https://www.lcnews.co.kr/news/articleView.html?idxno=211776
+https://www.lecturernews.com/news/articleView.html?idxno=214255
 https://www.m-economynews.com/news/article.html?no=73266
 https://www.m-economynews.com/news/article.html?no=73368
 https://www.m-i.kr/news/articleView.html?idxno=2020837
@@ -475,6 +479,10 @@ https://www.pinpointnews.co.kr/news/articleView.html?idxno=506519
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=506520
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=506521
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=506529
+https://www.pinpointnews.co.kr/news/articleView.html?idxno=506556
+https://www.pinpointnews.co.kr/news/articleView.html?idxno=506557
+https://www.pinpointnews.co.kr/news/articleView.html?idxno=506558
+https://www.pinpointnews.co.kr/news/articleView.html?idxno=506559
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326666
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326717
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326845
@@ -541,6 +549,10 @@ https://www.theguru.co.kr/news/article.html?no=110044
 https://www.thelec.kr/news/articleView.html?idxno=65684
 https://www.thelec.kr/news/articleView.html?idxno=65705
 https://www.thelec.kr/news/articleView.html?idxno=65723
+https://www.thepublic.kr/news/articleView.html?idxno=327789
+https://www.thepublic.kr/news/articleView.html?idxno=327792
+https://www.thepublic.kr/news/articleView.html?idxno=327817
+https://www.thepublic.kr/news/articleView.html?idxno=327848
 https://www.thesportstimes.co.kr/news/articleView.html?idxno=377729
 https://www.tjb.co.kr/news05/bodo/view/id/106276
 https://www.tokenpost.kr/news/blockchain/440517

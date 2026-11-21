@@ -51,6 +51,7 @@ http://www.inews24.com/view/2027807
 http://www.inews24.com/view/2027906
 http://www.inews24.com/view/2028396
 http://www.inews24.com/view/2028600
+http://www.inews24.com/view/2028880
 http://www.issuenbiz.com/news/articleView.html?idxno=81852
 http://www.jeonmin.co.kr/news/articleView.html?idxno=450845
 http://www.kjdaily.com/article.php?aid=1794929020692716276
@@ -144,6 +145,8 @@ https://imnews.imbc.com/replay/2026/nwtoday/article/6867115_37012.html
 https://it.chosun.com/news/articleView.html?idxno=3000000001538
 https://it.donga.com/109957/
 https://kr.aving.net/news/articleView.html?idxno=1817187
+https://news.bizwatch.co.kr/article/industry/2026/11/20/0035
+https://news.bizwatch.co.kr/article/industry/2026/11/20/0042
 https://news.bizwatch.co.kr/article/real_estate/2026/11/19/0012
 https://news.cpbc.co.kr/article/1177130?division=NAVER
 https://news.einfomax.co.kr/news/articleView.html?idxno=4445567
@@ -306,6 +309,7 @@ https://www.g-enews.com/view.php?ud=202611201539511559923c501012_1
 https://www.gamevu.co.kr/news/articleView.html?idxno=62463
 https://www.getnews.co.kr/news/articleView.html?idxno=887802
 https://www.getnews.co.kr/news/articleView.html?idxno=887956
+https://www.getnews.co.kr/news/articleView.html?idxno=887978
 https://www.ggilbo.com/news/articleView.html?idxno=1194194
 https://www.globalepic.co.kr/view.php?ud=2026111913261216074ee4ea3d05_29
 https://www.gokorea.kr/news/articleView.html?idxno=886384
@@ -321,6 +325,7 @@ https://www.hankyung.com/article/2026111982761
 https://www.hankyung.com/article/2026111984011
 https://www.hankyung.com/article/2026112004536
 https://www.hankyung.com/article/2026112006421
+https://www.hankyung.com/article/2026112114097
 https://www.hellot.net/news/article.html?no=116484
 https://www.hidomin.com/news/articleView.html?idxno=730064
 https://www.hidomin.com/news/articleView.html?idxno=730093
@@ -402,6 +407,7 @@ https://www.mk.co.kr/article/12213868
 https://www.mk.co.kr/article/12214266
 https://www.mk.co.kr/article/12214679
 https://www.mk.co.kr/article/12215101
+https://www.mk.co.kr/article/12215270
 https://www.moneystorm.kr/news/articleView.html?idxno=8605
 https://www.moneystorm.kr/news/articleView.html?idxno=8626
 https://www.moneystorm.kr/news/articleView.html?idxno=8649
@@ -599,6 +605,7 @@ https://www.vegannews.co.kr/news/article.html?no=407793
 https://www.veritas-a.com/news/articleView.html?idxno=638332
 https://www.viva100.com/article/20261119500424
 https://www.viva100.com/article/20261119500610
+https://www.viva100.com/article/20261121500141
 https://www.webeconomy.co.kr/news/articleView.html?idxno=2380528
 https://www.webeconomy.co.kr/news/articleView.html?idxno=2383752
 https://www.wikileaks-kr.org/news/articleView.html?idxno=194972

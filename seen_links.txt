@@ -68,6 +68,11 @@ http://www.kjdaily.com/article.php?aid=1795145496692971276
 http://www.kjdaily.com/article.php?aid=1795174811693007276
 http://www.kjdaily.com/article.php?aid=1795187411693011276
 http://www.kjdaily.com/article.php?aid=1795187479692983276
+http://www.kjdaily.com/article.php?aid=1795273632693029276
+http://www.kjdaily.com/article.php?aid=1795273991693032276
+http://www.kjdaily.com/article.php?aid=1795274258693028276
+http://www.kjdaily.com/article.php?aid=1795274271693037276
+http://www.kjdaily.com/article.php?aid=1795274857693030276
 http://www.lkp.news/news/articleView.html?idxno=86237
 http://www.lkp.news/news/articleView.html?idxno=86261
 http://www.metroseoul.co.kr/article/20261118500280
@@ -177,6 +182,7 @@ https://news.unn.net/news/articleView.html?idxno=601075
 https://sateconomy.co.kr/news/view/1065538921275225
 https://sateconomy.co.kr/news/view/1065565552551100
 https://sateconomy.co.kr/news/view/1065574337850682
+https://sateconomy.co.kr/news/view/1065624397677952
 https://sjbnews.com/news/news.php?number=893040
 https://slownews.kr/169762
 https://sports.donga.com/economy/article/all/20261121/135064656/1

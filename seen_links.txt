@@ -123,6 +123,7 @@ http://www.ujeil.com/news/articleView.html?idxno=395502
 http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611190127&t=NN
 http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611200056&t=NN
 http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611200071&t=NN
+http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611220004&t=NN
 http://www.yonhapnewstv.co.kr/news/MYH20261119231130kUw
 https://biz.chosun.com/industry/business-venture/2026/11/20/T4KQ7RPIG5EOTAQ2YUALQ3OIZY/?utm_source=naver&utm_medium=original&utm_campaign=biz
 https://biz.chosun.com/stock/market_trend/2026/11/20/56JLOTG5AJGVBBBX6UI4QTFYYI/?utm_source=naver&utm_medium=original&utm_campaign=biz
@@ -231,6 +232,7 @@ https://www.busan.com/view/busan/view.php?code=2026111910303396382
 https://www.businesskorea.co.kr/news/articleView.html?idxno=281672
 https://www.businesskorea.co.kr/news/articleView.html?idxno=281841
 https://www.businessplus.kr/news/articleView.html?idxno=120163
+https://www.businesspost.co.kr/BP?command=article_view&num=452085
 https://www.businesspost.co.kr/BP?command=article_view&num=452289
 https://www.businesspost.co.kr/BP?command=article_view&num=452369
 https://www.businesspost.co.kr/BP?command=article_view&num=452416
@@ -242,6 +244,7 @@ https://www.cbci.co.kr/news/articleView.html?idxno=628426
 https://www.cbci.co.kr/news/articleView.html?idxno=628622
 https://www.cbci.co.kr/news/articleView.html?idxno=628823
 https://www.cbci.co.kr/news/articleView.html?idxno=629040
+https://www.cbci.co.kr/news/articleView.html?idxno=629213
 https://www.cbci.co.kr/news/articleView.html?idxno=629216
 https://www.cbci.co.kr/news/articleView.html?idxno=629219
 https://www.ceoscoredaily.com/page/view/2026111915095340948
@@ -467,6 +470,7 @@ https://www.news1.kr/finance/general-stock/6360379
 https://www.news1.kr/finance/general-stock/6360527
 https://www.news1.kr/finance/general-stock/6360759
 https://www.news1.kr/industry/auto-industry/6360029
+https://www.news1.kr/industry/auto-industry/6360832
 https://www.news1.kr/industry/general-industry/6359946
 https://www.news1.kr/industry/general-industry/6361699
 https://www.news2day.co.kr/article/20261119500009
@@ -477,6 +481,7 @@ https://www.news2day.co.kr/article/20261121500005
 https://www.news2day.co.kr/article/20261121500007
 https://www.newscj.com/news/articleView.html?idxno=3450654
 https://www.newscj.com/news/articleView.html?idxno=3450904
+https://www.newscj.com/news/articleView.html?idxno=3450974
 https://www.newsclaim.co.kr/news/articleView.html?idxno=3083332
 https://www.newsclaim.co.kr/news/articleView.html?idxno=3083412
 https://www.newsclaim.co.kr/news/articleView.html?idxno=3083416
@@ -562,6 +567,7 @@ https://www.pointdaily.co.kr/news/articleView.html?idxno=326845
 https://www.polinews.co.kr/news/articleView.html?idxno=748794
 https://www.polinews.co.kr/news/articleView.html?idxno=748824
 https://www.ppss.kr/news/articleView.html?idxno=322183
+https://www.pressian.com/pages/articles/2026112118115186369?utm_source=naver&utm_medium=search
 https://www.public25.com/news/articleView.html?idxno=58670
 https://www.rcast.co.kr/news/articleView.html?idxno=32095
 https://www.safetimes.co.kr/news/articleView.html?idxno=247730
@@ -572,6 +578,7 @@ https://www.sedaily.com/article/20116332?ref=naver
 https://www.sedaily.com/article/20116618?ref=naver
 https://www.sedaily.com/article/20116721?ref=naver
 https://www.sedaily.com/article/20117072?ref=naver
+https://www.sedaily.com/article/20117268?ref=naver
 https://www.segye.com/newsView/20261118516643?OutUrl=naver
 https://www.segye.com/newsView/20261118516754?OutUrl=naver
 https://www.segye.com/newsView/20261118521045?OutUrl=naver
@@ -596,6 +603,7 @@ https://www.sidae.com/article/2026111809210855744
 https://www.sidae.com/article/2026111810315935235
 https://www.sidae.com/article/2026111814103164749
 https://www.sidae.com/article/2026111815482155303
+https://www.sisajournal-e.com/news/articleView.html?idxno=425202
 https://www.sisajournal.com/news/articleView.html?idxno=394722
 https://www.slist.kr/news/articleView.html?idxno=783238
 https://www.smartbizn.com/news/articleView.html?idxno=159949

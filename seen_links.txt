@@ -3,6 +3,7 @@ http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963769
 http://www.4th.kr/news/articleView.html?idxno=2122280
 http://www.beyondpost.co.kr/view.php?ud=2026111818575011824c878f8fa1_30
 http://www.beyondpost.co.kr/view.php?ud=202611191148158642205868f676_30
+http://www.beyondpost.co.kr/view.php?ud=2026112216383615554c878f8fa1_30
 http://www.biztribune.co.kr/news/articleView.html?idxno=362761
 http://www.biztribune.co.kr/news/articleView.html?idxno=362958
 http://www.biztribune.co.kr/news/articleView.html?idxno=362968
@@ -338,6 +339,7 @@ https://www.donga.com/news/Economy/article/all/20261121/135061314/1
 https://www.donga.com/news/Economy/article/all/20261122/135067163/1
 https://www.donga.com/news/Economy/article/all/20261122/135067925/1
 https://www.donga.com/news/Economy/article/all/20261122/135068708/2
+https://www.donga.com/news/Economy/article/all/20261123/135070403/2
 https://www.donga.com/news/Society/article/all/20261119/135053259/1
 https://www.donga.com/news/Society/article/all/20261119/135056979/2
 https://www.dongponews.net/news/articleView.html?idxno=61823
@@ -418,6 +420,7 @@ https://www.g-enews.com/view.php?ud=2026112122495160902bd56fbc3c_1
 https://www.g-enews.com/view.php?ud=2026112220574417249a1f309431_1
 https://www.gametoc.co.kr/news/articleView.html?idxno=113308
 https://www.gamevu.co.kr/news/articleView.html?idxno=62463
+https://www.geconomy.co.kr/news/article.html?no=325939
 https://www.getnews.co.kr/news/articleView.html?idxno=887802
 https://www.getnews.co.kr/news/articleView.html?idxno=887956
 https://www.getnews.co.kr/news/articleView.html?idxno=887978

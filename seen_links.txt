@@ -79,6 +79,7 @@ http://www.kjdaily.com/article.php?aid=1795274857693030276
 http://www.kjdaily.com/article.php?aid=1795306878693048276
 http://www.kjdaily.com/article.php?aid=1795309330693019276
 http://www.kjdaily.com/article.php?aid=1795339013693109003
+http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261123.22004006769
 http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261122.99099006728
 http://www.lak.co.kr/news/boardview.php?id=24380
 http://www.lkp.news/news/articleView.html?idxno=86237
@@ -237,6 +238,7 @@ https://www.ajunews.com/view/20261122095025332
 https://www.ajunews.com/view/20261122105939487
 https://www.ajunews.com/view/20261122145953911
 https://www.apnews.kr/news/articleView.html?idxno=3053330
+https://www.apnews.kr/news/articleView.html?idxno=3053405
 https://www.asiaa.co.kr/news/articleView.html?idxno=271802
 https://www.asiatime.co.kr/article/20261119500302
 https://www.asiatoday.co.kr/kn/view.php?key=20261118010006903
@@ -326,6 +328,7 @@ https://www.donga.com/news/Economy/article/all/20261119/135056627/2
 https://www.donga.com/news/Economy/article/all/20261120/135058851/1
 https://www.donga.com/news/Economy/article/all/20261120/135059714/1
 https://www.donga.com/news/Economy/article/all/20261121/135061314/1
+https://www.donga.com/news/Economy/article/all/20261122/135067925/1
 https://www.donga.com/news/Society/article/all/20261119/135053259/1
 https://www.donga.com/news/Society/article/all/20261119/135056979/2
 https://www.dongponews.net/news/articleView.html?idxno=61823
@@ -503,6 +506,7 @@ https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091343
 https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091469
 https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091626
 https://www.kyosu.net/news/articleView.html?idxno=212715
+https://www.laborplus.co.kr/news/articleView.html?idxno=41877
 https://www.lcnews.co.kr/news/articleView.html?idxno=211759
 https://www.lcnews.co.kr/news/articleView.html?idxno=211776
 https://www.lecturernews.com/news/articleView.html?idxno=214255
@@ -558,6 +562,7 @@ https://www.mt.co.kr/tech/2026/11/20/2026111920161827464
 https://www.mt.co.kr/tech/2026/11/22/2026112209300169702
 https://www.munhwa.com/article/11632515?ref=naver
 https://www.munhwa.com/article/11633019?ref=naver
+https://www.mydaily.co.kr/page/view/2026112213365708158
 https://www.naeil.com/news/read/609337?ref=naver
 https://www.natv.go.kr/natv/news/newsView.do?newsId=514631
 https://www.news1.kr/finance/general-stock/6359478

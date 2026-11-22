@@ -5,6 +5,7 @@ http://www.beyondpost.co.kr/view.php?ud=2026111818575011824c878f8fa1_30
 http://www.beyondpost.co.kr/view.php?ud=202611191148158642205868f676_30
 http://www.biztribune.co.kr/news/articleView.html?idxno=362761
 http://www.biztribune.co.kr/news/articleView.html?idxno=362958
+http://www.biztribune.co.kr/news/articleView.html?idxno=362968
 http://www.breaknews.com/1252263
 http://www.breaknews.com/1252860
 http://www.ccnnews.co.kr/news/articleView.html?idxno=418079
@@ -77,6 +78,7 @@ http://www.kjdaily.com/article.php?aid=1795274271693037276
 http://www.kjdaily.com/article.php?aid=1795274857693030276
 http://www.kjdaily.com/article.php?aid=1795306878693048276
 http://www.kjdaily.com/article.php?aid=1795309330693019276
+http://www.kjdaily.com/article.php?aid=1795339013693109003
 http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261122.99099006728
 http://www.lak.co.kr/news/boardview.php?id=24380
 http://www.lkp.news/news/articleView.html?idxno=86237
@@ -233,11 +235,14 @@ https://www.ajunews.com/view/20261121163133087
 https://www.ajunews.com/view/20261121214444202
 https://www.ajunews.com/view/20261122095025332
 https://www.ajunews.com/view/20261122105939487
+https://www.ajunews.com/view/20261122145953911
 https://www.apnews.kr/news/articleView.html?idxno=3053330
 https://www.asiaa.co.kr/news/articleView.html?idxno=271802
 https://www.asiatime.co.kr/article/20261119500302
 https://www.asiatoday.co.kr/kn/view.php?key=20261118010006903
 https://www.asiatoday.co.kr/kn/view.php?key=20261120010007981
+https://www.asiatoday.co.kr/kn/view.php?key=20261122010008421
+https://www.asiatoday.co.kr/kn/view.php?key=20261123010008498
 https://www.autodaily.co.kr/news/articleView.html?idxno=602261
 https://www.autodaily.co.kr/news/articleView.html?idxno=602262
 https://www.autodaily.co.kr/news/articleView.html?idxno=602281
@@ -256,6 +261,7 @@ https://www.bloter.net/news/articleView.html?idxno=679307
 https://www.busan.com/view/busan/view.php?code=2026111910303396382
 https://www.busan.com/view/busan/view.php?code=2026111917352466636
 https://www.busan.com/view/busan/view.php?code=2026112121243046618
+https://www.busan.com/view/busan/view.php?code=2026112122194718312
 https://www.busan.com/view/busan/view.php?code=2026112213544202501
 https://www.businesskorea.co.kr/news/articleView.html?idxno=281672
 https://www.businesskorea.co.kr/news/articleView.html?idxno=281841
@@ -278,6 +284,7 @@ https://www.cbci.co.kr/news/articleView.html?idxno=629213
 https://www.cbci.co.kr/news/articleView.html?idxno=629216
 https://www.cbci.co.kr/news/articleView.html?idxno=629219
 https://www.cbci.co.kr/news/articleView.html?idxno=629428
+https://www.ccdn.co.kr/news/articleView.html?idxno=1112689
 https://www.ceoscoredaily.com/page/view/2026111915095340948
 https://www.ceoscoredaily.com/page/view/2026111915105368341
 https://www.ceoscoredaily.com/page/view/2026112012291265360
@@ -374,6 +381,8 @@ https://www.fnnews.com/news/202611191822167602
 https://www.fnnews.com/news/202611201047515871
 https://www.fnnews.com/news/202611201625018522
 https://www.fnnews.com/news/202611221052597400
+https://www.fnnews.com/news/202611221807363611
+https://www.fnnews.com/news/202611221812483896
 https://www.fntoday.co.kr/news/articleView.html?idxno=399352
 https://www.g-enews.com/view.php?ud=2026111821351543629a1f309431_1
 https://www.g-enews.com/view.php?ud=202611190838536898906806b77b_1
@@ -412,6 +421,7 @@ https://www.hankyung.com/article/2026111984011
 https://www.hankyung.com/article/2026112004536
 https://www.hankyung.com/article/2026112006421
 https://www.hankyung.com/article/2026112114097
+https://www.hankyung.com/article/2026112225121
 https://www.hellot.net/news/article.html?no=116484
 https://www.hidomin.com/news/articleView.html?idxno=730064
 https://www.hidomin.com/news/articleView.html?idxno=730093
@@ -420,6 +430,7 @@ https://www.hinews.co.kr/view.php?ud=202611221341082353cd8b879b3c_48
 https://www.huffingtonpost.kr/article/262238
 https://www.ibabynews.com/news/articleView.html?idxno=157130
 https://www.idaegu.co.kr/news/articleView.html?idxno=565756
+https://www.incheonilbo.com/news/articleView.html?idxno=1337453
 https://www.insight.co.kr/news/582849
 https://www.inthenews.co.kr/news/article.html?no=94787
 https://www.intn.co.kr/news/articleView.html?idxno=3000384
@@ -524,6 +535,7 @@ https://www.mk.co.kr/article/12215588
 https://www.mk.co.kr/article/12215594
 https://www.mk.co.kr/article/12215603
 https://www.mk.co.kr/article/12215614
+https://www.mk.co.kr/article/12215673
 https://www.moneystorm.kr/news/articleView.html?idxno=8605
 https://www.moneystorm.kr/news/articleView.html?idxno=8626
 https://www.moneystorm.kr/news/articleView.html?idxno=8649
@@ -685,6 +697,7 @@ https://www.sentv.co.kr/article/view/sentv202611190091
 https://www.sentv.co.kr/article/view/sentv202611200123
 https://www.sentv.co.kr/article/view/sentv202611210002
 https://www.seoul.co.kr/news/economy/industry/2026/11/20/20261120032006?wlog_tag3=naver
+https://www.seoul.co.kr/news/economy/industry/2026/11/22/20261122500086?wlog_tag3=naver
 https://www.seoul.co.kr/news/economy/securities/2026/11/20/20261120500305?wlog_tag3=naver
 https://www.seoulfn.com/news/articleView.html?idxno=643511
 https://www.seoultimes.news/news/article.html?no=2000102495

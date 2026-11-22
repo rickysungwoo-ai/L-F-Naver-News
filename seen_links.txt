@@ -242,6 +242,7 @@ https://www.ajunews.com/view/20261122105939487
 https://www.ajunews.com/view/20261122145953911
 https://www.apnews.kr/news/articleView.html?idxno=3053330
 https://www.apnews.kr/news/articleView.html?idxno=3053405
+https://www.apnews.kr/news/articleView.html?idxno=3053415
 https://www.asiaa.co.kr/news/articleView.html?idxno=271802
 https://www.asiatime.co.kr/article/20261119500302
 https://www.asiatoday.co.kr/kn/view.php?key=20261118010006903
@@ -297,6 +298,7 @@ https://www.ceoscoredaily.com/page/view/2026112016442834447
 https://www.chosun.com/economy/industry-company/2026/11/19/BDYQ4IA2QFDH7DZPPSZSSOVQMY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.chosun.com/economy/industry-company/2026/11/19/KFKLX4B7ZJHAVPXMHKOTC5B3OM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.chosun.com/economy/industry-company/2026/11/22/YM6R2PO7R5BM5OPX7GE4HXIERY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
+https://www.chosun.com/economy/industry-company/2026/11/23/3HIIGBE23FFNXMZ6LENRDPRLEE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.chosun.com/economy/tech_it/2026/11/21/TVL4QU6EGJB7XHKRDIF2SE4BQQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.chosun.com/sports/basketball/2026/11/21/6NXGZT3WQVC6NA5LVOALLDFFLY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.christiantoday.co.kr/news/378789
@@ -333,6 +335,7 @@ https://www.donga.com/news/Economy/article/all/20261120/135059714/1
 https://www.donga.com/news/Economy/article/all/20261121/135061314/1
 https://www.donga.com/news/Economy/article/all/20261122/135067163/1
 https://www.donga.com/news/Economy/article/all/20261122/135067925/1
+https://www.donga.com/news/Economy/article/all/20261122/135068708/2
 https://www.donga.com/news/Society/article/all/20261119/135053259/1
 https://www.donga.com/news/Society/article/all/20261119/135056979/2
 https://www.dongponews.net/news/articleView.html?idxno=61823
@@ -407,6 +410,7 @@ https://www.g-enews.com/view.php?ud=20261120083948914844093b5d4e_1
 https://www.g-enews.com/view.php?ud=202611201303429615923c501012_1
 https://www.g-enews.com/view.php?ud=202611201457081902139bf6e4b2_1
 https://www.g-enews.com/view.php?ud=202611201539511559923c501012_1
+https://www.g-enews.com/view.php?ud=202611210908557501906806b77b_1
 https://www.g-enews.com/view.php?ud=2026112121190777602bd56fbc3c_1
 https://www.g-enews.com/view.php?ud=2026112122495160902bd56fbc3c_1
 https://www.gametoc.co.kr/news/articleView.html?idxno=113308
@@ -593,6 +597,7 @@ https://www.news1.kr/it-science/cc-newmedia/6361809
 https://www.news2day.co.kr/article/20261119500009
 https://www.news2day.co.kr/article/20261119500038
 https://www.news2day.co.kr/article/20261119500158
+https://www.news2day.co.kr/article/20261119500252
 https://www.news2day.co.kr/article/20261119500379
 https://www.news2day.co.kr/article/20261121500005
 https://www.news2day.co.kr/article/20261121500007

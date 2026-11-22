@@ -381,8 +381,10 @@ https://www.fnnews.com/news/202611191822167602
 https://www.fnnews.com/news/202611201047515871
 https://www.fnnews.com/news/202611201625018522
 https://www.fnnews.com/news/202611221052597400
+https://www.fnnews.com/news/202611221805107275
 https://www.fnnews.com/news/202611221807363611
 https://www.fnnews.com/news/202611221812483896
+https://www.fnnews.com/news/202611221844422491
 https://www.fntoday.co.kr/news/articleView.html?idxno=399352
 https://www.g-enews.com/view.php?ud=2026111821351543629a1f309431_1
 https://www.g-enews.com/view.php?ud=202611190838536898906806b77b_1
@@ -440,6 +442,7 @@ https://www.itbiznews.com/news/articleView.html?idxno=232205
 https://www.itbiznews.com/news/articleView.html?idxno=232388
 https://www.itooza.com/common/iview.php?no=2026112009191734841
 https://www.iusm.co.kr/news/articleView.html?idxno=1070859
+https://www.iusm.co.kr/news/articleView.html?idxno=1070881
 https://www.jasm.co.kr/news/view/325991/?sc=Naver
 https://www.jbnews.com/news/articleView.html?idxno=1516416
 https://www.jbnews.com/news/articleView.html?idxno=1516465

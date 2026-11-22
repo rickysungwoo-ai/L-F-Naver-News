@@ -382,10 +382,14 @@ https://www.etoday.co.kr/news/view/2649624
 https://www.etoday.co.kr/news/view/2649919
 https://www.etoday.co.kr/news/view/2650075
 https://www.etoday.co.kr/news/view/2650325
+https://www.etoday.co.kr/news/view/2650523
 https://www.etoday.co.kr/news/view/2650787
 https://www.etoday.co.kr/news/view/2650920
 https://www.etoday.co.kr/news/view/2651071
 https://www.etoday.co.kr/news/view/2651195
+https://www.etoday.co.kr/news/view/2651210
+https://www.etoday.co.kr/news/view/2651269
+https://www.etoday.co.kr/news/view/2651288
 https://www.financialpost.co.kr/news/articleView.html?idxno=301873
 https://www.financialpost.co.kr/news/articleView.html?idxno=301912
 https://www.financialpost.co.kr/news/articleView.html?idxno=301985
@@ -515,6 +519,7 @@ https://www.khan.co.kr/article/202611221516001
 https://www.khan.co.kr/article/202611221547001
 https://www.khan.co.kr/article/202611222028015
 https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041646
+https://www.kmecnews.co.kr/news/articleView.html?idxno=52849
 https://www.kmib.co.kr/article/20261118502354
 https://www.kmib.co.kr/article/20261119502274
 https://www.kmib.co.kr/article/20261122500643
@@ -583,6 +588,7 @@ https://www.mt.co.kr/industry/2026/11/20/2026111920034840661
 https://www.mt.co.kr/industry/2026/11/20/2026112014354645196
 https://www.mt.co.kr/industry/2026/11/21/2026112015040597243
 https://www.mt.co.kr/industry/2026/11/23/2026112219572551381
+https://www.mt.co.kr/politics/2026/11/23/2026112217050465427
 https://www.mt.co.kr/stock/2026/11/20/2026112008225688924
 https://www.mt.co.kr/stock/2026/11/20/2026112015522358657
 https://www.mt.co.kr/stock/2026/11/22/2026112011121390985
@@ -736,6 +742,7 @@ https://www.sentv.co.kr/article/view/sentv202611200123
 https://www.sentv.co.kr/article/view/sentv202611210002
 https://www.seoul.co.kr/news/economy/industry/2026/11/20/20261120032006?wlog_tag3=naver
 https://www.seoul.co.kr/news/economy/industry/2026/11/22/20261122500086?wlog_tag3=naver
+https://www.seoul.co.kr/news/economy/industry/2026/11/23/20261123031001?wlog_tag3=naver
 https://www.seoul.co.kr/news/economy/securities/2026/11/20/20261120500305?wlog_tag3=naver
 https://www.seoulfn.com/news/articleView.html?idxno=643511
 https://www.seoultimes.news/news/article.html?no=2000102495

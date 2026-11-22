@@ -103,6 +103,7 @@ http://www.newsprime.co.kr/news/article.html?no=755637
 http://www.newsprime.co.kr/news/article.html?no=755839
 http://www.newsroad.co.kr/news/articleView.html?idxno=68021
 http://www.newsroad.co.kr/news/articleView.html?idxno=68100
+http://www.newsroad.co.kr/news/articleView.html?idxno=68203
 http://www.newstomato.com/ReadNews.aspx?no=1321074&inflow=N
 http://www.newstomato.com/ReadNews.aspx?no=1321078&inflow=N
 http://www.newstown.co.kr/news/articleView.html?idxno=722423
@@ -136,6 +137,7 @@ http://www.worktoday.co.kr/news/articleView.html?idxno=92442
 http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611190127&t=NN
 http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611200056&t=NN
 http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611200071&t=NN
+http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611210022&t=NN
 http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611220004&t=NN
 http://www.yonhapnewstv.co.kr/news/MYH20261119231130kUw
 http://www.yonhapnewstv.co.kr/news/MYH202611221629416Hy
@@ -349,6 +351,8 @@ https://www.edaily.co.kr/News/Read?newsId=01617046645648344&mediaCodeNo=257&utm_
 https://www.edaily.co.kr/News/Read?newsId=01623606645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
 https://www.edaily.co.kr/News/Read?newsId=01958166645648016&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
 https://www.edaily.co.kr/News/Read?newsId=01961446645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
+https://www.edaily.co.kr/News/Read?newsId=01968006645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
+https://www.edaily.co.kr/News/Read?newsId=01971286645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
 https://www.edaily.co.kr/News/Read?newsId=03011046645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
 https://www.edaily.co.kr/News/Read?newsId=03588326645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
 https://www.edaily.co.kr/News/Read?newsId=03624406645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
@@ -490,6 +494,7 @@ https://www.khan.co.kr/article/202611200600011
 https://www.khan.co.kr/article/202611201605001
 https://www.khan.co.kr/article/202611221516001
 https://www.khan.co.kr/article/202611221547001
+https://www.khan.co.kr/article/202611222028015
 https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041646
 https://www.kmib.co.kr/article/20261118502354
 https://www.kmib.co.kr/article/20261119502274
@@ -499,6 +504,7 @@ https://www.koreareport.co.kr/news/articleView.html?idxno=54920
 https://www.koreareport.co.kr/news/articleView.html?idxno=54937
 https://www.ksilbo.co.kr/news/articleView.html?idxno=1073128
 https://www.ksmnews.co.kr/news/view.php?idx=630224
+https://www.ksmnews.co.kr/news/view.php?idx=630568
 https://www.kukinews.com/article/view/kuk202611170215
 https://www.kyeonggi.com/article/20261119580658
 https://www.kyeonggi.com/article/20261121580022
@@ -526,6 +532,7 @@ https://www.meconomynews.com/news/articleView.html?idxno=203919
 https://www.meconomynews.com/news/articleView.html?idxno=203945
 https://www.mediafine.co.kr/news/articleView.html?idxno=95585
 https://www.mediapen.com/news/view/1138591
+https://www.mediapen.com/news/view/1139126
 https://www.mediawatch.kr/news/article.html?no=261816
 https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065613849835634
 https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065614260142185
@@ -676,6 +683,7 @@ https://www.pinpointnews.co.kr/news/articleView.html?idxno=506746
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326666
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326717
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326845
+https://www.pointdaily.co.kr/news/articleView.html?idxno=326910
 https://www.polinews.co.kr/news/articleView.html?idxno=748794
 https://www.polinews.co.kr/news/articleView.html?idxno=748824
 https://www.ppss.kr/news/articleView.html?idxno=322183

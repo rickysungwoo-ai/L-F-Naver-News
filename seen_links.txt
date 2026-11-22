@@ -60,6 +60,7 @@ http://www.inews24.com/view/2028396
 http://www.inews24.com/view/2028600
 http://www.inews24.com/view/2028880
 http://www.issuenbiz.com/news/articleView.html?idxno=81852
+http://www.issuenbiz.com/news/articleView.html?idxno=81864
 http://www.jeonmin.co.kr/news/articleView.html?idxno=450845
 http://www.kjdaily.com/article.php?aid=1794929020692716276
 http://www.kjdaily.com/article.php?aid=1795000698692838002
@@ -299,6 +300,7 @@ https://www.chosun.com/economy/industry-company/2026/11/19/BDYQ4IA2QFDH7DZPPSZSS
 https://www.chosun.com/economy/industry-company/2026/11/19/KFKLX4B7ZJHAVPXMHKOTC5B3OM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.chosun.com/economy/industry-company/2026/11/22/YM6R2PO7R5BM5OPX7GE4HXIERY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.chosun.com/economy/industry-company/2026/11/23/3HIIGBE23FFNXMZ6LENRDPRLEE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
+https://www.chosun.com/economy/stock-finance/2026/11/23/V5DLSBKXWRFCDNI522LM3JQFUM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.chosun.com/economy/tech_it/2026/11/21/TVL4QU6EGJB7XHKRDIF2SE4BQQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.chosun.com/sports/basketball/2026/11/21/6NXGZT3WQVC6NA5LVOALLDFFLY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.christiantoday.co.kr/news/378789
@@ -511,6 +513,7 @@ https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041646
 https://www.kmib.co.kr/article/20261118502354
 https://www.kmib.co.kr/article/20261119502274
 https://www.kmib.co.kr/article/20261122500643
+https://www.kmib.co.kr/article/20261122501212
 https://www.koreareport.co.kr/news/articleView.html?idxno=54876
 https://www.koreareport.co.kr/news/articleView.html?idxno=54920
 https://www.koreareport.co.kr/news/articleView.html?idxno=54937

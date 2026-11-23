@@ -132,6 +132,7 @@ http://www.newsroad.co.kr/news/articleView.html?idxno=68203
 http://www.newstomato.com/ReadNews.aspx?no=1321074&inflow=N
 http://www.newstomato.com/ReadNews.aspx?no=1321078&inflow=N
 http://www.newstown.co.kr/news/articleView.html?idxno=722423
+http://www.newstown.co.kr/news/articleView.html?idxno=723032
 http://www.newswatch.kr/news/articleView.html?idxno=81916
 http://www.newswatch.kr/news/articleView.html?idxno=82005
 http://www.opinionnews.co.kr/news/articleView.html?idxno=147252
@@ -181,6 +182,7 @@ http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611210022&t=NN
 http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611220004&t=NN
 http://www.yonhapnewstv.co.kr/news/MYH20261119231130kUw
 http://www.yonhapnewstv.co.kr/news/MYH202611221629416Hy
+http://www.yonhapnewstv.co.kr/news/MYH20261123231506LD8
 https://biz.chosun.com/industry/business-venture/2026/11/20/T4KQ7RPIG5EOTAQ2YUALQ3OIZY/?utm_source=naver&utm_medium=original&utm_campaign=biz
 https://biz.chosun.com/it-science/ict/2026/11/22/UHVJPHTSJ5GLFEBT3LAK4PN3ME/?utm_source=naver&utm_medium=original&utm_campaign=biz
 https://biz.chosun.com/stock/market_trend/2026/11/20/56JLOTG5AJGVBBBX6UI4QTFYYI/?utm_source=naver&utm_medium=original&utm_campaign=biz
@@ -314,6 +316,7 @@ https://www.ajunews.com/view/20261122105939487
 https://www.ajunews.com/view/20261122145953911
 https://www.ajunews.com/view/20261123113322709
 https://www.ajunews.com/view/20261123152546544
+https://www.ajunews.com/view/20261123213013537
 https://www.apnews.kr/news/articleView.html?idxno=3053330
 https://www.apnews.kr/news/articleView.html?idxno=3053405
 https://www.apnews.kr/news/articleView.html?idxno=3053415
@@ -332,6 +335,7 @@ https://www.banronbodo.com/news/articleView.html?idxno=33390
 https://www.banronbodo.com/news/articleView.html?idxno=33400
 https://www.betanews.net/article/view/beta202611190164
 https://www.betanews.net/article/view/beta202611200164
+https://www.betanews.net/article/view/beta202611230149
 https://www.bigtanews.co.kr/article/view/big202611190027
 https://www.bigtanews.co.kr/article/view/big202611200024
 https://www.bigtanews.co.kr/article/view/big202611230018
@@ -456,6 +460,7 @@ https://www.ebn.co.kr/news/articleView.html?idxno=1732212
 https://www.ebn.co.kr/news/articleView.html?idxno=1732464
 https://www.ebn.co.kr/news/articleView.html?idxno=1732540
 https://www.ebn.co.kr/news/articleView.html?idxno=1732707
+https://www.ebn.co.kr/news/articleView.html?idxno=1732732
 https://www.econovill.com/news/articleView.html?idxno=757849
 https://www.econovill.com/news/articleView.html?idxno=757886
 https://www.econovill.com/news/articleView.html?idxno=758068
@@ -775,6 +780,7 @@ https://www.mt.co.kr/tech/2026/11/22/2026112209300169702
 https://www.munhwa.com/article/11632515?ref=naver
 https://www.munhwa.com/article/11633019?ref=naver
 https://www.munhwa.com/article/11633318?ref=naver
+https://www.munhwa.com/article/11633465?ref=naver
 https://www.mydaily.co.kr/page/view/2026112213365708158
 https://www.mydaily.co.kr/page/view/2026112310265559468
 https://www.naeil.com/news/read/609337?ref=naver
@@ -1003,6 +1009,7 @@ https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553719505
 https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553720334
 https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553721168
 https://www.sportschosun.com/basketball/2026-11-20/202611200100131520012451
+https://www.sportschosun.com/sports-news/2026-11-23/202611230100144670013456
 https://www.sportsseoul.com/news/read/1649761?ref=naver
 https://www.sportsseoul.com/news/read/1650968?ref=naver
 https://www.sportsseoul.com/news/read/1651398?ref=naver
@@ -1097,6 +1104,7 @@ https://www.wikitree.co.kr/articles/1177029
 https://www.wolyo.co.kr/news/articleView.html?idxno=320889
 https://www.womennews.co.kr/news/articleView.html?idxno=284669
 https://www.womennews.co.kr/news/articleView.html?idxno=284830
+https://www.woodkorea.co.kr/news/articleView.html?idxno=92768
 https://www.yna.co.kr/view/AKR20261118093500008?input=1195m
 https://www.yna.co.kr/view/AKR20261118185700007?input=1195m
 https://www.yna.co.kr/view/AKR20261119021700003?input=1195m

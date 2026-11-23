@@ -78,6 +78,7 @@ http://www.inews24.com/view/2029091
 http://www.issuenbiz.com/news/articleView.html?idxno=81852
 http://www.issuenbiz.com/news/articleView.html?idxno=81864
 http://www.issuenbiz.com/news/articleView.html?idxno=81906
+http://www.issuenbiz.com/news/articleView.html?idxno=81919
 http://www.jeonmin.co.kr/news/articleView.html?idxno=450845
 http://www.jndn.com/article.php?aid=1795425848443645003
 http://www.jndn.com/article.php?aid=1795428165443649095
@@ -102,6 +103,7 @@ http://www.kjdaily.com/article.php?aid=1795309330693019276
 http://www.kjdaily.com/article.php?aid=1795339013693109003
 http://www.kjdaily.com/article.php?aid=1795435081693317276
 http://www.kjdaily.com/article.php?aid=1795446639693320276
+http://www.kjdaily.com/article.php?aid=1795449711693179276
 http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261123.22004006769
 http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261122.99099006728
 http://www.lak.co.kr/news/boardview.php?id=24380
@@ -270,6 +272,7 @@ https://news.sbs.co.kr/news/endPage.do?news_id=N1008856581&plink=ORI&cooper=NAVE
 https://news.sbs.co.kr/news/endPage.do?news_id=N1008856639&plink=ORI&cooper=NAVER
 https://news.sbs.co.kr/news/endPage.do?news_id=N1008859609&plink=ORI&cooper=NAVER
 https://news.sbs.co.kr/news/endPage.do?news_id=N1008859616&plink=ORI&cooper=NAVER
+https://news.sbs.co.kr/news/endPage.do?news_id=N1008859813&plink=ORI&cooper=NAVER
 https://news.tf.co.kr/read/economy/2391196.htm
 https://news.tf.co.kr/read/economy/2391637.htm
 https://news.tf.co.kr/read/economy/2391886.htm
@@ -398,6 +401,7 @@ https://www.chosun.com/economy/industry-company/2026/11/22/YM6R2PO7R5BM5OPX7GE4H
 https://www.chosun.com/economy/industry-company/2026/11/23/3HIIGBE23FFNXMZ6LENRDPRLEE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.chosun.com/economy/stock-finance/2026/11/23/V5DLSBKXWRFCDNI522LM3JQFUM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.chosun.com/economy/tech_it/2026/11/21/TVL4QU6EGJB7XHKRDIF2SE4BQQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
+https://www.chosun.com/national/court_law/2026/11/24/75RUEFF4ZFCA3L57RL45MPU2AY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.chosun.com/sports/basketball/2026/11/21/6NXGZT3WQVC6NA5LVOALLDFFLY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 https://www.christiantoday.co.kr/news/378789
 https://www.cnbizm.com/news/articleView.html?idxno=322285
@@ -811,6 +815,7 @@ https://www.news1.kr/industry/general-industry/6361699
 https://www.news1.kr/it-science/cc-newmedia/6361809
 https://www.news1.kr/local/daegu-gyeongbuk/6362926
 https://www.news1.kr/society/court-prosecution/6363437
+https://www.news1.kr/world/usa-canada/6363490
 https://www.news2day.co.kr/article/20261119500009
 https://www.news2day.co.kr/article/20261119500038
 https://www.news2day.co.kr/article/20261119500158
@@ -1140,3 +1145,4 @@ https://zdnet.co.kr/view/?no=20261119121922
 https://zdnet.co.kr/view/?no=20261120054534
 https://zdnet.co.kr/view/?no=20261122143759
 https://zdnet.co.kr/view/?no=20261122152936
+https://zdnet.co.kr/view/?no=20261124005221

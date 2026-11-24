@@ -33,6 +33,7 @@ http://www.dailypop.kr/news/articleView.html?idxno=104929
 http://www.dailysmart.co.kr/news/articleView.html?idxno=132887
 http://www.datanews.co.kr/news/article.html?no=147721
 http://www.datanews.co.kr/news/article.html?no=147757
+http://www.economytalk.kr/news/articleView.html?idxno=425503
 http://www.econonews.co.kr/news/articleView.html?idxno=447376
 http://www.econonews.co.kr/news/articleView.html?idxno=447377
 http://www.econonews.co.kr/news/articleView.html?idxno=447424
@@ -618,6 +619,7 @@ https://www.econovill.com/news/articleView.html?idxno=758068
 https://www.econovill.com/news/articleView.html?idxno=758091
 https://www.econovill.com/news/articleView.html?idxno=758150
 https://www.edaily.co.kr/News/Read?newsId=01216886645648016&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
+https://www.edaily.co.kr/News/Read?newsId=01216886645649328&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
 https://www.edaily.co.kr/News/Read?newsId=01617046645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
 https://www.edaily.co.kr/News/Read?newsId=01623606645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
 https://www.edaily.co.kr/News/Read?newsId=01738406645648672&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
@@ -938,6 +940,7 @@ https://www.laborplus.co.kr/news/articleView.html?idxno=41877
 https://www.labortoday.co.kr/news/articleView.html?idxno=237872
 https://www.lawissue.co.kr/view.php?ud=2026112314170735867191f6c6e_12
 https://www.lawissue.co.kr/view.php?ud=202611231532513742204ead0791_12
+https://www.lawtimes.co.kr/news/articleView.html?idxno=229962
 https://www.lcnews.co.kr/news/articleView.html?idxno=211759
 https://www.lcnews.co.kr/news/articleView.html?idxno=211776
 https://www.lecturernews.com/news/articleView.html?idxno=214255
@@ -1025,6 +1028,7 @@ https://www.mt.co.kr/stock/2026/11/25/2026112419412741423
 https://www.mt.co.kr/stock/2026/11/25/2026112419413018390
 https://www.mt.co.kr/tech/2026/11/20/2026111920161827464
 https://www.mt.co.kr/tech/2026/11/22/2026112209300169702
+https://www.mt.co.kr/world/2026/11/25/2026112421163191880
 https://www.munhwa.com/article/11632515?ref=naver
 https://www.munhwa.com/article/11633019?ref=naver
 https://www.munhwa.com/article/11633318?ref=naver
@@ -1162,6 +1166,7 @@ https://www.niceeconomy.co.kr/news/articleView.html?idxno=91973
 https://www.nocutnews.co.kr/news/6609891?utm_source=naver&utm_medium=article&utm_campaign=20261120050111
 https://www.nocutnews.co.kr/news/6611191?utm_source=naver&utm_medium=article&utm_campaign=20261123153551
 https://www.nocutnews.co.kr/news/6611191?utm_source=naver&utm_medium=article&utm_campaign=20261123165251
+https://www.nocutnews.co.kr/news/6611942?utm_source=naver&utm_medium=article&utm_campaign=20261125050110
 https://www.nspna.com/news/?mode=view&newsid=837516
 https://www.ntoday.co.kr/news/articleView.html?idxno=131021
 https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286585&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
@@ -1223,12 +1228,15 @@ https://www.pinpointnews.co.kr/news/articleView.html?idxno=507598
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=507643
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=507653
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=507662
+https://www.pinpointnews.co.kr/news/articleView.html?idxno=507710
+https://www.pinpointnews.co.kr/news/articleView.html?idxno=507713
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326666
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326717
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326845
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326910
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326934
 https://www.pointdaily.co.kr/news/articleView.html?idxno=327226
+https://www.pointdaily.co.kr/news/articleView.html?idxno=327239
 https://www.polinews.co.kr/news/articleView.html?idxno=748794
 https://www.polinews.co.kr/news/articleView.html?idxno=748824
 https://www.polinews.co.kr/news/articleView.html?idxno=748981
@@ -1287,13 +1295,16 @@ https://www.seoul.co.kr/news/economy/industry/2026/11/20/20261120032006?wlog_tag
 https://www.seoul.co.kr/news/economy/industry/2026/11/22/20261122500086?wlog_tag3=naver
 https://www.seoul.co.kr/news/economy/industry/2026/11/23/20261123031001?wlog_tag3=naver
 https://www.seoul.co.kr/news/economy/industry/2026/11/24/20261124500186?wlog_tag3=naver
+https://www.seoul.co.kr/news/economy/industry/2026/11/25/20261125029004?wlog_tag3=naver
 https://www.seoul.co.kr/news/economy/securities/2026/11/20/20261120500305?wlog_tag3=naver
 https://www.seoul.co.kr/news/economy/securities/2026/11/24/20261124500166?wlog_tag3=naver
+https://www.seoul.co.kr/news/peoples/movement/2026/11/25/20261125024004?wlog_tag3=naver
 https://www.seoulfn.com/news/articleView.html?idxno=643511
 https://www.seoultimes.news/news/article.html?no=2000102495
 https://www.shinailbo.co.kr/news/articleView.html?idxno=5084844
 https://www.shinailbo.co.kr/news/articleView.html?idxno=5086072
 https://www.shinailbo.co.kr/news/articleView.html?idxno=5086269
+https://www.shinailbo.co.kr/news/articleView.html?idxno=5086339
 https://www.shinailbo.co.kr/news/articleView.html?idxno=5087002
 https://www.sidae.com/article/2026111714214050843
 https://www.sidae.com/article/2026111714594514642

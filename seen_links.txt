@@ -183,6 +183,7 @@ http://www.osen.co.kr/article/G1112913605
 http://www.paxetv.com/news/articleView.html?idxno=287509
 http://www.paxetv.com/news/articleView.html?idxno=287639
 http://www.paxetv.com/news/articleView.html?idxno=287751
+http://www.paxetv.com/news/articleView.html?idxno=287768
 http://www.popcornnews.net/news/articleView.html?idxno=140426
 http://www.popcornnews.net/news/articleView.html?idxno=140838
 http://www.popcornnews.net/news/articleView.html?idxno=140908
@@ -222,6 +223,7 @@ http://www.whitepaper.co.kr/news/articleView.html?idxno=269071
 http://www.whitepaper.co.kr/news/articleView.html?idxno=269128
 http://www.worktoday.co.kr/news/articleView.html?idxno=92442
 http://www.worktoday.co.kr/news/articleView.html?idxno=92565
+http://www.worktoday.co.kr/news/articleView.html?idxno=92604
 http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611190127&t=NN
 http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611200056&t=NN
 http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611200071&t=NN
@@ -1404,6 +1406,7 @@ https://www.viva100.com/article/20261124500200
 https://www.viva100.com/article/20261124501003
 https://www.webeconomy.co.kr/news/articleView.html?idxno=2380528
 https://www.webeconomy.co.kr/news/articleView.html?idxno=2383752
+https://www.webeconomy.co.kr/news/articleView.html?idxno=2388219
 https://www.webeconomy.co.kr/news/articleView.html?idxno=2388327
 https://www.widedaily.com/news/articleView.html?idxno=304471
 https://www.widedaily.com/news/articleView.html?idxno=304530

@@ -461,6 +461,7 @@ https://view.asiae.co.kr/article/2026112411383406860
 https://view.asiae.co.kr/article/2026112516275838545
 https://vop.co.kr/A00001697680.html
 https://weekly.chosun.com/news/articleView.html?idxno=60005
+https://weekly.chosun.com/news/articleView.html?idxno=60042
 https://weekly.chosun.com/news/articleView.html?idxno=60044
 https://weekly.chosun.com/news/articleView.html?idxno=60069
 https://weekly.donga.com/3/all/11/6466915/1
@@ -708,6 +709,7 @@ https://www.econovill.com/news/articleView.html?idxno=758068
 https://www.econovill.com/news/articleView.html?idxno=758091
 https://www.econovill.com/news/articleView.html?idxno=758150
 https://www.econovill.com/news/articleView.html?idxno=758537
+https://www.edaily.co.kr/News/Read?newsId=01167686645649656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
 https://www.edaily.co.kr/News/Read?newsId=01216886645648016&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
 https://www.edaily.co.kr/News/Read?newsId=01216886645649328&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
 https://www.edaily.co.kr/News/Read?newsId=01617046645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
@@ -769,6 +771,7 @@ https://www.etoday.co.kr/news/view/2651927
 https://www.etoday.co.kr/news/view/2652206
 https://www.etoday.co.kr/news/view/2652262
 https://www.etoday.co.kr/news/view/2652420
+https://www.etoday.co.kr/news/view/2652444
 https://www.etoday.co.kr/news/view/2652486
 https://www.etoday.co.kr/news/view/2652502
 https://www.etoday.co.kr/news/view/2652508
@@ -1175,6 +1178,7 @@ https://www.mt.co.kr/stock/2026/11/24/2026112416295692231
 https://www.mt.co.kr/stock/2026/11/25/2026112419412741423
 https://www.mt.co.kr/stock/2026/11/25/2026112419413018390
 https://www.mt.co.kr/stock/2026/11/25/2026112509174624848
+https://www.mt.co.kr/stock/2026/11/26/2026112522334252823
 https://www.mt.co.kr/tech/2026/11/20/2026111920161827464
 https://www.mt.co.kr/tech/2026/11/22/2026112209300169702
 https://www.mt.co.kr/world/2026/11/25/2026112421163191880
@@ -1464,6 +1468,7 @@ https://www.sentv.co.kr/article/view/sentv202611200123
 https://www.sentv.co.kr/article/view/sentv202611210002
 https://www.sentv.co.kr/article/view/sentv202611230059
 https://www.sentv.co.kr/article/view/sentv202611240105
+https://www.seoul.co.kr/news/economy/2026/11/26/20261126001005?wlog_tag3=naver
 https://www.seoul.co.kr/news/economy/industry/2026/11/20/20261120032006?wlog_tag3=naver
 https://www.seoul.co.kr/news/economy/industry/2026/11/22/20261122500086?wlog_tag3=naver
 https://www.seoul.co.kr/news/economy/industry/2026/11/23/20261123031001?wlog_tag3=naver

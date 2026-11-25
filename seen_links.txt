@@ -412,6 +412,7 @@ https://news.sbs.co.kr/news/endPage.do?news_id=N1008863495&plink=ORI&cooper=NAVE
 https://news.sbs.co.kr/news/endPage.do?news_id=N1008863503&plink=ORI&cooper=NAVER
 https://news.sbs.co.kr/news/endPage.do?news_id=N1008863782&plink=ORI&cooper=NAVER
 https://news.sbs.co.kr/news/endPage.do?news_id=N1008863790&plink=ORI&cooper=NAVER
+https://news.sbs.co.kr/news/endPage.do?news_id=N1008863889&plink=ORI&cooper=NAVER
 https://news.tf.co.kr/read/economy/2391196.htm
 https://news.tf.co.kr/read/economy/2391637.htm
 https://news.tf.co.kr/read/economy/2391886.htm
@@ -517,6 +518,7 @@ https://www.betanews.net/article/view/beta202611200164
 https://www.betanews.net/article/view/beta202611230149
 https://www.betanews.net/article/view/beta202611240192
 https://www.betanews.net/article/view/beta202611250169
+https://www.betanews.net/article/view/beta202611260001
 https://www.bigtanews.co.kr/article/view/big202611190027
 https://www.bigtanews.co.kr/article/view/big202611200024
 https://www.bigtanews.co.kr/article/view/big202611230018
@@ -666,6 +668,8 @@ https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611221056341330053
 https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611230921442020103
 https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611241150378350358
 https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611241319583570369
+https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611242242562860466
+https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611251339103900584
 https://www.donga.com/news/Economy/article/all/20261119/135056627/2
 https://www.donga.com/news/Economy/article/all/20261120/135058851/1
 https://www.donga.com/news/Economy/article/all/20261120/135059714/1
@@ -865,6 +869,7 @@ https://www.gokorea.kr/news/articleView.html?idxno=887193
 https://www.goodkyung.com/news/articleView.html?idxno=293703
 https://www.goodkyung.com/news/articleView.html?idxno=293706
 https://www.goodkyung.com/news/articleView.html?idxno=293814
+https://www.goodkyung.com/news/articleView.html?idxno=293881
 https://www.goodnews1.com/news/articleView.html?idxno=466542
 https://www.goodnews1.com/news/articleView.html?idxno=466646
 https://www.gukjenews.com/news/articleView.html?idxno=3757031
@@ -1694,6 +1699,7 @@ https://www.ziksir.com/news/articleView.html?idxno=154129
 https://www.ziksir.com/news/articleView.html?idxno=154476
 https://www.ziksir.com/news/articleView.html?idxno=154547
 https://www.ziksir.com/news/articleView.html?idxno=154555
+https://www.ziksir.com/news/articleView.html?idxno=154630
 https://zdnet.co.kr/view/?no=20261119121922
 https://zdnet.co.kr/view/?no=20261120054534
 https://zdnet.co.kr/view/?no=20261122143759

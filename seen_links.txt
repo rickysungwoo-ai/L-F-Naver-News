@@ -369,6 +369,7 @@ https://biz.sbs.co.kr/article_hub/20000348479?division=NAVER
 https://biz.sbs.co.kr/article_hub/20000348605?division=NAVER
 https://biz.sbs.co.kr/article_hub/20000348661?division=NAVER
 https://biz.sbs.co.kr/article_hub/20000348665?division=NAVER
+https://biz.sbs.co.kr/article_hub/20000349221?division=NAVER
 https://bizhankook.com/articles/140202.html
 https://byline.network/?p=9004111222628743
 https://daily.hankooki.com/news/articleView.html?idxno=1426642
@@ -873,6 +874,7 @@ https://www.financialpost.co.kr/news/articleView.html?idxno=302375
 https://www.financialpost.co.kr/news/articleView.html?idxno=302624
 https://www.financialpost.co.kr/news/articleView.html?idxno=302801
 https://www.financialpost.co.kr/news/articleView.html?idxno=303189
+https://www.financialpost.co.kr/news/articleView.html?idxno=303541
 https://www.fnnews.com/news/202611191046458427
 https://www.fnnews.com/news/202611191449356076
 https://www.fnnews.com/news/202611191818116892
@@ -1549,6 +1551,7 @@ https://www.pinpointnews.co.kr/news/articleView.html?idxno=508183
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=508184
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=508369
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=508522
+https://www.pinpointnews.co.kr/news/articleView.html?idxno=508638
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326666
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326717
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326845
@@ -1706,6 +1709,7 @@ https://www.the-today.com/news/articleView.html?idxno=94055
 https://www.the-today.com/news/articleView.html?idxno=94058
 https://www.the-today.com/news/articleView.html?idxno=94115
 https://www.the-today.com/news/articleView.html?idxno=94132
+https://www.the-today.com/news/articleView.html?idxno=94165
 https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611121229342080109120
 https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611160826575680107820
 https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611162009565920104275

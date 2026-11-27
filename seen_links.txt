@@ -162,6 +162,7 @@ http://www.jndn.com/article.php?aid=1795425848443645003
 http://www.jndn.com/article.php?aid=1795428165443649095
 http://www.jndn.com/article.php?aid=1795509678443696007
 http://www.joseilbo.com/news/news_read.php?uid=580488&class=17&grp=
+http://www.joseilbo.com/news/news_read.php?uid=580641&class=53&grp=
 http://www.kdfnews.com/news/articleView.html?idxno=191420
 http://www.kdfnews.com/news/articleView.html?idxno=191474
 http://www.kjdaily.com/article.php?aid=1794929020692716276
@@ -680,6 +681,7 @@ https://www.bloter.net/news/articleView.html?idxno=679629
 https://www.bloter.net/news/articleView.html?idxno=679738
 https://www.bloter.net/news/articleView.html?idxno=679758
 https://www.bloter.net/news/articleView.html?idxno=679842
+https://www.bloter.net/news/articleView.html?idxno=679854
 https://www.bloter.net/news/articleView.html?idxno=679878
 https://www.bloter.net/news/articleView.html?idxno=679880
 https://www.busan.com/view/busan/view.php?code=2026111910303396382
@@ -688,6 +690,7 @@ https://www.busan.com/view/busan/view.php?code=2026112121243046618
 https://www.busan.com/view/busan/view.php?code=2026112122194718312
 https://www.busan.com/view/busan/view.php?code=2026112213544202501
 https://www.busan.com/view/busan/view.php?code=2026112309462651879
+https://www.busan.com/view/busan/view.php?code=2026112804444710810
 https://www.businesskorea.co.kr/news/articleView.html?idxno=281672
 https://www.businesskorea.co.kr/news/articleView.html?idxno=281841
 https://www.businesskorea.co.kr/news/articleView.html?idxno=281954
@@ -1054,6 +1057,7 @@ https://www.g-enews.com/view.php?ud=20261124163307481906806b77b_1
 https://www.g-enews.com/view.php?ud=202611242059543919a1f309431_1
 https://www.g-enews.com/view.php?ud=202611251404444087923c501012_1
 https://www.g-enews.com/view.php?ud=202611270811168704923c501012_1
+https://www.g-enews.com/view.php?ud=2026112716084767052aa6f4cdad_1
 https://www.g-enews.com/view.php?ud=202611271929198047fbbec65dfb_1
 https://www.gametoc.co.kr/news/articleView.html?idxno=113308
 https://www.gamevu.co.kr/news/articleView.html?idxno=62463
@@ -1307,6 +1311,7 @@ https://www.kmaeil.com/news/articleView.html?idxno=659829
 https://www.kmaeil.com/news/articleView.html?idxno=660145
 https://www.kmecnews.co.kr/news/articleView.html?idxno=52849
 https://www.kmecnews.co.kr/news/articleView.html?idxno=52868
+https://www.kmib.co.kr/article/20261115501527
 https://www.kmib.co.kr/article/20261118502354
 https://www.kmib.co.kr/article/20261119502274
 https://www.kmib.co.kr/article/20261122500643
@@ -1593,6 +1598,7 @@ https://www.newsis.com/view/NISX20261124_0003881448
 https://www.newsis.com/view/NISX20261125_0003882258
 https://www.newsis.com/view/NISX20261126_0003885096
 https://www.newsis.com/view/NISX20261127_0003885725
+https://www.newsis.com/view/NISX20261127_0003885876
 https://www.newsis.com/view/NISX20261127_0003886029
 https://www.newsis.com/view/NISX20261127_0003886031
 https://www.newspenguin.com/news/articleView.html?idxno=22505
@@ -1762,6 +1768,10 @@ https://www.pinpointnews.co.kr/news/articleView.html?idxno=509063
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=509064
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=509065
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=509080
+https://www.pinpointnews.co.kr/news/articleView.html?idxno=509086
+https://www.pinpointnews.co.kr/news/articleView.html?idxno=509089
+https://www.pinpointnews.co.kr/news/articleView.html?idxno=509094
+https://www.pinpointnews.co.kr/news/articleView.html?idxno=509096
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326666
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326717
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326845
@@ -1966,6 +1976,7 @@ https://www.thefairnews.co.kr/news/articleView.html?idxno=95634
 https://www.theguru.co.kr/news/article.html?no=110044
 https://www.theguru.co.kr/news/article.html?no=110101
 https://www.theguru.co.kr/news/article.html?no=110231
+https://www.theguru.co.kr/news/article.html?no=110311
 https://www.thelec.kr/news/articleView.html?idxno=65684
 https://www.thelec.kr/news/articleView.html?idxno=65705
 https://www.thelec.kr/news/articleView.html?idxno=65723

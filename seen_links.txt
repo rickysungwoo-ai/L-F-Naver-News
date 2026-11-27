@@ -73,6 +73,8 @@ http://www.econonews.co.kr/news/articleView.html?idxno=447717
 http://www.econonews.co.kr/news/articleView.html?idxno=447783
 http://www.econonews.co.kr/news/articleView.html?idxno=447784
 http://www.econonews.co.kr/news/articleView.html?idxno=447799
+http://www.econonews.co.kr/news/articleView.html?idxno=447844
+http://www.econonews.co.kr/news/articleView.html?idxno=447845
 http://www.efnews.co.kr/news/articleView.html?idxno=134193
 http://www.efnews.co.kr/news/articleView.html?idxno=134307
 http://www.enewstoday.co.kr/news/articleView.html?idxno=2494390
@@ -125,6 +127,7 @@ http://www.hansbiz.co.kr/news/articleView.html?idxno=887498
 http://www.hansbiz.co.kr/news/articleView.html?idxno=887534
 http://www.hansbiz.co.kr/news/articleView.html?idxno=887882
 http://www.hansbiz.co.kr/news/articleView.html?idxno=887886
+http://www.hansbiz.co.kr/news/articleView.html?idxno=888153
 http://www.ikld.kr/news/articleView.html?idxno=344593
 http://www.ikpnews.net/news/articleView.html?idxno=72094
 http://www.inews24.com/view/2027322
@@ -200,6 +203,8 @@ http://www.kjdaily.com/article.php?aid=1795706819693721276
 http://www.kjdaily.com/article.php?aid=1795750802693739276
 http://www.kjdaily.com/article.php?aid=1795750991693738276
 http://www.kjdaily.com/article.php?aid=1795780219693755276
+http://www.kjdaily.com/article.php?aid=1795792029693760276
+http://www.kjdaily.com/article.php?aid=1795793599693752276
 http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261123.22004006769
 http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261122.99099006728
 http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261124.99099007487
@@ -258,6 +263,7 @@ http://www.newstomato.com/ReadNews.aspx?no=1321981&inflow=N
 http://www.newstomato.com/ReadNews.aspx?no=1322096&inflow=N
 http://www.newstown.co.kr/news/articleView.html?idxno=722423
 http://www.newstown.co.kr/news/articleView.html?idxno=723032
+http://www.newstown.co.kr/news/articleView.html?idxno=723693
 http://www.newswatch.kr/news/articleView.html?idxno=81916
 http://www.newswatch.kr/news/articleView.html?idxno=82005
 http://www.newswatch.kr/news/articleView.html?idxno=82042
@@ -341,6 +347,7 @@ http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611220004&t=NN
 http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611240147&t=NN
 http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611240161&t=NN
 http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611270033&t=NN
+http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611270130&t=NN
 http://www.yonhapnewstv.co.kr/news/AKR20261126112417ZN3
 http://www.yonhapnewstv.co.kr/news/AKR20261127003633axY
 http://www.yonhapnewstv.co.kr/news/MYH20261119231130kUw
@@ -614,6 +621,7 @@ https://www.ajunews.com/view/20261126093620371
 https://www.ajunews.com/view/20261126200253929
 https://www.ajunews.com/view/20261127124629284
 https://www.ajunews.com/view/20261127145133707
+https://www.ajunews.com/view/20261127214900556
 https://www.apnews.kr/news/articleView.html?idxno=3053330
 https://www.apnews.kr/news/articleView.html?idxno=3053405
 https://www.apnews.kr/news/articleView.html?idxno=3053415
@@ -733,6 +741,7 @@ https://www.cbci.co.kr/news/articleView.html?idxno=630895
 https://www.cbci.co.kr/news/articleView.html?idxno=630940
 https://www.cbci.co.kr/news/articleView.html?idxno=631083
 https://www.cbci.co.kr/news/articleView.html?idxno=631130
+https://www.cbci.co.kr/news/articleView.html?idxno=631503
 https://www.ccdailynews.com/news/articleView.html?idxno=2453111
 https://www.ccdn.co.kr/news/articleView.html?idxno=1112689
 https://www.ccdn.co.kr/news/articleView.html?idxno=1113616
@@ -793,6 +802,7 @@ https://www.dailian.co.kr/news/view/1720460/?sc=Naver
 https://www.dailian.co.kr/news/view/1720568/?sc=Naver
 https://www.dailian.co.kr/news/view/1720583/?sc=Naver
 https://www.dailian.co.kr/news/view/1720601/?sc=Naver
+https://www.dailian.co.kr/news/view/1720778/?sc=Naver
 https://www.dailybrief.co.kr/news/articleView.html?idxno=7376
 https://www.dailycar.co.kr/content/news.html?type=view&autoId=63243
 https://www.dailycar.co.kr/content/news.html?type=view&autoId=63319

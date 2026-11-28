@@ -26,6 +26,7 @@ http://www.biztribune.co.kr/news/articleView.html?idxno=363090
 http://www.bizwnews.com/news/articleView.html?idxno=152754
 http://www.bizwnews.com/news/articleView.html?idxno=152832
 http://www.bizwnews.com/news/articleView.html?idxno=153459
+http://www.bizwnews.com/news/articleView.html?idxno=153489
 http://www.bokuennews.com/news/article.html?no=287617
 http://www.breaknews.com/1252263
 http://www.breaknews.com/1252860
@@ -607,6 +608,7 @@ https://weekly.hankooki.com/news/articleView.html?idxno=7194930
 https://weekly.hankooki.com/news/articleView.html?idxno=7195360
 https://weekly.hankooki.com/news/articleView.html?idxno=7195426
 https://weekly.khan.co.kr/article/202611230600031
+https://weekly.khan.co.kr/article/202611281549001
 https://www.1conomynews.co.kr/news/articleView.html?idxno=51651
 https://www.aitimes.kr/news/articleView.html?idxno=42810
 https://www.ajunews.com/view/20261119005308643
@@ -892,6 +894,7 @@ https://www.dt.co.kr/article/12097604?ref=naver
 https://www.dynews.co.kr/news/articleView.html?idxno=875831
 https://www.e-science.co.kr/news/articleView.html?idxno=140580
 https://www.e-science.co.kr/news/articleView.html?idxno=140656
+https://www.e-science.co.kr/news/articleView.html?idxno=140984
 https://www.ebn.co.kr/news/articleView.html?idxno=1732201
 https://www.ebn.co.kr/news/articleView.html?idxno=1732211
 https://www.ebn.co.kr/news/articleView.html?idxno=1732212
@@ -1619,6 +1622,7 @@ https://www.newsis.com/view/NISX20261127_0003885725
 https://www.newsis.com/view/NISX20261127_0003885876
 https://www.newsis.com/view/NISX20261127_0003886029
 https://www.newsis.com/view/NISX20261127_0003886031
+https://www.newsis.com/view/NISX20261128_0003887109
 https://www.newspenguin.com/news/articleView.html?idxno=22505
 https://www.newspim.com/news/view/20261118000541
 https://www.newspim.com/news/view/20261118001124
@@ -1795,6 +1799,7 @@ https://www.pinpointnews.co.kr/news/articleView.html?idxno=509094
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=509096
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=509109
 https://www.pinpointnews.co.kr/news/articleView.html?idxno=509110
+https://www.pinpointnews.co.kr/news/articleView.html?idxno=509154
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326666
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326717
 https://www.pointdaily.co.kr/news/articleView.html?idxno=326845
@@ -1958,6 +1963,7 @@ https://www.tbc.co.kr/news/view?pno=20261118165851AE08795&id=213538
 https://www.tbc.co.kr/news/view?pno=20261123141143AE08996&id=213675
 https://www.techm.kr/news/articleView.html?idxno=157698
 https://www.tfmedia.co.kr/news/article.html?no=209138
+https://www.tfmedia.co.kr/news/article.html?no=209307
 https://www.the-today.com/news/articleView.html?idxno=93789
 https://www.the-today.com/news/articleView.html?idxno=93796
 https://www.the-today.com/news/articleView.html?idxno=93797

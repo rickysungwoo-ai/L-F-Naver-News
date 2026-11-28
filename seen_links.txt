@@ -32,6 +32,7 @@ http://www.breaknews.com/1252263
 http://www.breaknews.com/1252860
 http://www.breaknews.com/1254457
 http://www.breaknews.com/1254965
+http://www.breaknews.com/1255007
 http://www.ccnnews.co.kr/news/articleView.html?idxno=418079
 http://www.cctimes.kr/news/articleView.html?idxno=938223
 http://www.cctimes.kr/news/articleView.html?idxno=939183
@@ -478,6 +479,7 @@ https://it.donga.com/110032/
 https://kpenews.com/View.aspx?No=4333805
 https://kr.aving.net/news/articleView.html?idxno=1817187
 https://m.sports.naver.com/basketball/article/065/0000305251
+https://m.sports.naver.com/basketball/article/065/0000305332
 https://magazine.hankyung.com/business/article/202611169078b
 https://magazine.hankyung.com/business/article/202611246585b
 https://magazine.hankyung.com/business/article/202611246835b
@@ -965,6 +967,7 @@ https://www.etnews.com/20261124000065
 https://www.etnews.com/20261124000186
 https://www.etnews.com/20261125000310
 https://www.etnews.com/20261127000197
+https://www.etnews.com/20261128000037
 https://www.etoday.co.kr/news/view/2649624
 https://www.etoday.co.kr/news/view/2649919
 https://www.etoday.co.kr/news/view/2650075
@@ -1074,6 +1077,7 @@ https://www.g-enews.com/view.php?ud=202611251404444087923c501012_1
 https://www.g-enews.com/view.php?ud=202611270811168704923c501012_1
 https://www.g-enews.com/view.php?ud=2026112716084767052aa6f4cdad_1
 https://www.g-enews.com/view.php?ud=202611271929198047fbbec65dfb_1
+https://www.g-enews.com/view.php?ud=202611281828217905fbbec65dfb_1
 https://www.gametoc.co.kr/news/articleView.html?idxno=113308
 https://www.gamevu.co.kr/news/articleView.html?idxno=62463
 https://www.gasnews.com/news/articleView.html?idxno=127905
@@ -1466,6 +1470,8 @@ https://www.mk.co.kr/article/12217791
 https://www.mk.co.kr/article/12218206
 https://www.mk.co.kr/article/12219678
 https://www.mk.co.kr/article/12219789
+https://www.mk.co.kr/article/12220750
+https://www.mk.co.kr/article/12220758
 https://www.moneystorm.kr/news/articleView.html?idxno=8605
 https://www.moneystorm.kr/news/articleView.html?idxno=8626
 https://www.moneystorm.kr/news/articleView.html?idxno=8649

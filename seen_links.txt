@@ -91,6 +91,7 @@ http://www.enewstoday.co.kr/news/articleView.html?idxno=2496555
 http://www.enewstoday.co.kr/news/articleView.html?idxno=2496687
 http://www.enewstoday.co.kr/news/articleView.html?idxno=2497755
 http://www.enewstoday.co.kr/news/articleView.html?idxno=2498237
+http://www.enewstoday.co.kr/news/articleView.html?idxno=2498241
 http://www.ferrotimes.com/news/articleView.html?idxno=51548
 http://www.ferrotimes.com/news/articleView.html?idxno=51573
 http://www.ferrotimes.com/news/articleView.html?idxno=51594
@@ -211,6 +212,7 @@ http://www.kjdaily.com/article.php?aid=1795750991693738276
 http://www.kjdaily.com/article.php?aid=1795780219693755276
 http://www.kjdaily.com/article.php?aid=1795792029693760276
 http://www.kjdaily.com/article.php?aid=1795793599693752276
+http://www.kjdaily.com/article.php?aid=1795839401693758276
 http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261123.22004006769
 http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261122.99099006728
 http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261124.99099007487
